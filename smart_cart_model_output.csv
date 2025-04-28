@@ -1,0 +1,1272 @@
+session_id,user_id,timestamp,page,device,browser,location,session_duration,event_type,referral_source,cart_abandoned,num_clicks,num_add_to_cart,num_checkout,predicted_abandoned,actual_vs_pred
+s100,u149,2025-04-25 10:39:49,Home,Tablet,Chrome,USA,255,click,Paid,0,1.0,,,0,True
+s1001,u86,2025-04-25 10:11:17,Home,Desktop,Firefox,India,130,click,Email,0,1.0,,,0,True
+s1002,u459,2025-04-25 11:30:15,Cart,Desktop,Safari,Germany,107,add_to_cart,Social Media,1,,1.0,,1,True
+s1003,u229,2025-04-25 10:52:59,Payment,Mobile,Safari,Germany,83,add_to_cart,Email,1,,1.0,,1,True
+s1005,u405,2025-04-25 11:18:11,Cart,Desktop,Safari,UK,194,click,Paid,0,1.0,,,0,True
+s1007,u442,2025-04-25 10:03:10,Cart,Mobile,Chrome,Germany,66,checkout,Email,0,,,1.0,0,True
+s1008,u87,2025-04-25 10:15:02,Product,Desktop,Firefox,UK,79,checkout,Email,0,,,1.0,0,True
+s1009,u13,2025-04-25 11:31:25,Payment,Tablet,Chrome,India,111,checkout,Organic,0,,,1.0,0,True
+s101,u95,2025-04-25 10:20:14,Home,Tablet,Firefox,India,97,click,Email,0,2.0,,,0,True
+s1010,u261,2025-04-25 11:42:43,Payment,Desktop,Firefox,India,141,add_to_cart,Social Media,1,,1.0,,1,True
+s1011,u112,2025-04-25 10:46:40,Payment,Mobile,Firefox,UK,178,checkout,Organic,0,,,1.0,0,True
+s1012,u314,2025-04-25 10:06:25,Payment,Mobile,Safari,Germany,186,checkout,Organic,0,,,1.0,0,True
+s1014,u319,2025-04-25 11:28:13,Cart,Mobile,Safari,Germany,65,click,Email,0,2.0,,,0,True
+s1015,u74,2025-04-25 10:09:51,Cart,Desktop,Firefox,UK,271,click,Organic,1,1.0,,,1,True
+s1018,u450,2025-04-25 10:32:26,Cart,Mobile,Firefox,USA,194,add_to_cart,Paid,1,,1.0,,1,True
+s1020,u468,2025-04-25 11:19:37,Product,Desktop,Firefox,UK,177,add_to_cart,Organic,0,,1.0,,0,True
+s1021,u478,2025-04-25 11:37:50,Cart,Tablet,Safari,UK,166,add_to_cart,Social Media,1,,1.0,,1,True
+s1022,u236,2025-04-25 11:17:44,Home,Tablet,Safari,USA,249,click,Email,1,1.0,,,1,True
+s1024,u415,2025-04-25 11:29:57,Cart,Mobile,Chrome,Germany,168,checkout,Social Media,0,,,1.0,0,True
+s1026,u259,2025-04-25 10:07:45,Payment,Desktop,Chrome,India,180,click,Paid,0,1.0,,,0,True
+s1027,u279,2025-04-25 10:05:43,Home,Tablet,Chrome,UK,299,checkout,Paid,0,,,1.0,0,True
+s1029,u147,2025-04-25 10:37:39,Payment,Tablet,Safari,USA,138,checkout,Organic,0,,,1.0,0,True
+s103,u129,2025-04-25 10:18:48,Cart,Mobile,Safari,USA,82,checkout,Email,0,,,3.0,0,True
+s1030,u178,2025-04-25 10:53:45,Product,Mobile,Chrome,Germany,140,checkout,Organic,0,,,1.0,0,True
+s1031,u151,2025-04-25 10:46:25,Home,Tablet,Firefox,UK,237,add_to_cart,Social Media,1,,1.0,,1,True
+s1032,u363,2025-04-25 11:38:22,Cart,Mobile,Chrome,UK,241,add_to_cart,Organic,1,,1.0,,1,True
+s1034,u134,2025-04-25 11:14:03,Cart,Tablet,Safari,India,255,click,Social Media,0,1.0,,,0,True
+s1035,u76,2025-04-25 11:18:38,Payment,Tablet,Chrome,USA,284,add_to_cart,Organic,1,,1.0,,1,True
+s1036,u251,2025-04-25 10:34:17,Home,Desktop,Safari,Germany,272,add_to_cart,Organic,1,,1.0,,1,True
+s1037,u136,2025-04-25 10:18:05,Cart,Desktop,Chrome,UK,132,click,Social Media,0,1.0,,,0,True
+s104,u403,2025-04-25 10:45:32,Product,Desktop,Safari,USA,77,checkout,Paid,0,,,1.0,0,True
+s1040,u146,2025-04-25 10:36:32,Cart,Mobile,Firefox,USA,61,add_to_cart,Organic,0,,1.0,,1,False
+s1042,u186,2025-04-25 10:02:29,Cart,Mobile,Chrome,USA,147,add_to_cart,Paid,1,,1.0,,1,True
+s1044,u218,2025-04-25 11:15:22,Payment,Mobile,Firefox,USA,107,add_to_cart,Organic,1,,1.0,,1,True
+s1045,u404,2025-04-25 10:01:39,Home,Tablet,Safari,UK,209,checkout,Organic,0,,,1.0,0,True
+s1047,u199,2025-04-25 10:21:49,Product,Tablet,Firefox,UK,110,add_to_cart,Email,0,,1.0,,0,True
+s1048,u250,2025-04-25 10:52:42,Product,Mobile,Firefox,India,237,add_to_cart,Email,1,,1.0,,1,True
+s1050,u376,2025-04-25 11:18:32,Home,Mobile,Chrome,India,97,add_to_cart,Social Media,1,,1.0,,1,True
+s1054,u330,2025-04-25 10:38:20,Product,Desktop,Chrome,USA,152,checkout,Organic,0,,,1.0,0,True
+s1059,u129,2025-04-25 10:51:22,Product,Tablet,Firefox,UK,269,add_to_cart,Social Media,1,,1.0,,1,True
+s106,u2,2025-04-25 11:04:20,Product,Desktop,Chrome,UK,275,add_to_cart,Email,1,,1.0,,1,True
+s1062,u186,2025-04-25 11:25:00,Payment,Tablet,Firefox,India,112,add_to_cart,Paid,1,,1.0,,1,True
+s1063,u276,2025-04-25 10:54:00,Home,Tablet,Firefox,India,108,add_to_cart,Social Media,1,,1.0,,1,True
+s1064,u310,2025-04-25 10:34:18,Payment,Mobile,Chrome,UK,297,checkout,Paid,0,,,1.0,0,True
+s1065,u340,2025-04-25 11:22:08,Product,Desktop,Firefox,India,197,add_to_cart,Email,1,,2.0,,1,True
+s1067,u406,2025-04-25 10:56:38,Cart,Desktop,Chrome,UK,147,click,Paid,1,1.0,,,1,True
+s1068,u341,2025-04-25 10:28:27,Payment,Mobile,Safari,UK,299,add_to_cart,Paid,1,,1.0,,1,True
+s107,u171,2025-04-25 10:32:03,Payment,Mobile,Safari,India,61,add_to_cart,Social Media,1,,2.0,,1,True
+s1070,u216,2025-04-25 10:50:34,Home,Tablet,Safari,Germany,118,add_to_cart,Social Media,1,,1.0,,1,True
+s1072,u219,2025-04-25 10:40:20,Home,Tablet,Chrome,India,191,click,Social Media,1,2.0,,,0,False
+s1073,u132,2025-04-25 10:02:47,Home,Tablet,Chrome,UK,84,click,Organic,1,3.0,,,1,True
+s1074,u18,2025-04-25 11:54:33,Home,Tablet,Chrome,India,165,click,Paid,0,1.0,,,0,True
+s1077,u356,2025-04-25 11:05:59,Payment,Mobile,Firefox,Germany,223,checkout,Organic,0,,,2.0,0,True
+s1078,u59,2025-04-25 11:41:48,Home,Mobile,Firefox,UK,191,checkout,Organic,0,,,1.0,0,True
+s108,u445,2025-04-25 10:44:34,Payment,Mobile,Chrome,UK,272,checkout,Social Media,0,,,1.0,0,True
+s1080,u342,2025-04-25 10:42:06,Home,Desktop,Firefox,India,61,click,Email,0,1.0,,,0,True
+s1084,u129,2025-04-25 11:15:32,Home,Tablet,Safari,India,234,checkout,Email,0,,,1.0,0,True
+s1087,u118,2025-04-25 10:05:32,Product,Mobile,Chrome,Germany,60,add_to_cart,Organic,1,,2.0,,1,True
+s1088,u201,2025-04-25 11:12:11,Product,Mobile,Safari,India,176,checkout,Email,0,,,1.0,0,True
+s1091,u235,2025-04-25 11:29:14,Product,Tablet,Firefox,USA,108,click,Paid,0,1.0,,,0,True
+s1092,u265,2025-04-25 11:24:09,Home,Mobile,Safari,UK,299,add_to_cart,Email,1,,1.0,,1,True
+s1093,u478,2025-04-25 10:25:30,Product,Desktop,Firefox,USA,256,add_to_cart,Organic,1,,1.0,,1,True
+s1096,u399,2025-04-25 10:01:28,Payment,Mobile,Safari,Germany,206,checkout,Email,0,,,1.0,0,True
+s1097,u161,2025-04-25 10:14:18,Product,Tablet,Firefox,USA,179,add_to_cart,Organic,1,,1.0,,1,True
+s1098,u147,2025-04-25 10:02:20,Payment,Desktop,Chrome,India,194,click,Paid,0,1.0,,,0,True
+s11,u285,2025-04-25 11:01:03,Cart,Desktop,Chrome,USA,207,click,Paid,0,1.0,,,0,True
+s110,u51,2025-04-25 10:59:40,Product,Desktop,Firefox,Germany,258,add_to_cart,Organic,1,,1.0,,1,True
+s1101,u281,2025-04-25 10:11:37,Cart,Desktop,Safari,UK,114,add_to_cart,Paid,1,,1.0,,1,True
+s1104,u387,2025-04-25 11:02:19,Home,Mobile,Firefox,India,164,checkout,Organic,0,,,2.0,0,True
+s1105,u28,2025-04-25 11:30:47,Product,Tablet,Safari,USA,215,add_to_cart,Email,1,,1.0,,1,True
+s1106,u112,2025-04-25 11:42:59,Home,Desktop,Safari,UK,119,checkout,Email,0,,,1.0,0,True
+s1107,u368,2025-04-25 10:06:06,Product,Mobile,Chrome,India,189,add_to_cart,Organic,1,,1.0,,1,True
+s1108,u228,2025-04-25 10:06:55,Product,Desktop,Firefox,India,87,add_to_cart,Organic,1,,2.0,,1,True
+s111,u360,2025-04-25 10:14:28,Home,Mobile,Safari,USA,67,click,Email,0,1.0,,,0,True
+s1111,u355,2025-04-25 11:14:54,Home,Desktop,Chrome,India,278,click,Paid,0,1.0,,,0,True
+s1114,u179,2025-04-25 10:44:11,Payment,Mobile,Safari,USA,77,checkout,Paid,0,,,2.0,0,True
+s1116,u152,2025-04-25 10:14:00,Payment,Desktop,Chrome,USA,66,click,Social Media,0,1.0,,,0,True
+s1118,u151,2025-04-25 10:43:51,Home,Desktop,Firefox,UK,138,add_to_cart,Social Media,0,,2.0,,0,True
+s1119,u358,2025-04-25 10:15:08,Payment,Mobile,Safari,India,68,add_to_cart,Social Media,1,,1.0,,1,True
+s112,u118,2025-04-25 10:25:00,Home,Mobile,Firefox,USA,240,add_to_cart,Social Media,1,,3.0,,1,True
+s1123,u205,2025-04-25 10:35:50,Home,Mobile,Safari,Germany,258,checkout,Paid,0,,,1.0,0,True
+s1124,u228,2025-04-25 10:18:26,Product,Tablet,Safari,Germany,221,checkout,Social Media,0,,,1.0,0,True
+s1126,u71,2025-04-25 10:15:46,Payment,Desktop,Safari,UK,150,click,Email,0,1.0,,,0,True
+s1127,u14,2025-04-25 11:25:51,Payment,Tablet,Firefox,Germany,105,add_to_cart,Organic,1,,1.0,,1,True
+s1129,u8,2025-04-25 11:15:24,Payment,Desktop,Chrome,India,178,click,Paid,0,1.0,,,0,True
+s1130,u139,2025-04-25 11:22:56,Home,Desktop,Chrome,UK,252,add_to_cart,Paid,0,,1.0,,0,True
+s1131,u143,2025-04-25 10:12:28,Product,Tablet,Chrome,USA,193,add_to_cart,Organic,1,,1.0,,1,True
+s1132,u247,2025-04-25 10:07:07,Payment,Mobile,Safari,USA,170,checkout,Social Media,0,,,1.0,0,True
+s1134,u368,2025-04-25 10:31:07,Home,Tablet,Firefox,UK,64,checkout,Email,0,,,2.0,0,True
+s1136,u21,2025-04-25 10:52:27,Product,Mobile,Safari,Germany,289,click,Email,0,1.0,,,0,True
+s1137,u434,2025-04-25 11:07:59,Product,Desktop,Safari,India,180,add_to_cart,Organic,1,,1.0,,1,True
+s1139,u254,2025-04-25 10:06:24,Cart,Tablet,Safari,Germany,261,checkout,Email,0,,,2.0,0,True
+s1141,u272,2025-04-25 11:51:35,Cart,Tablet,Chrome,USA,257,click,Email,0,1.0,,,0,True
+s1142,u135,2025-04-25 11:05:14,Home,Tablet,Chrome,Germany,89,checkout,Organic,0,,,1.0,0,True
+s1143,u461,2025-04-25 10:59:26,Cart,Desktop,Chrome,UK,278,add_to_cart,Email,1,,1.0,,1,True
+s1144,u384,2025-04-25 11:16:12,Payment,Tablet,Chrome,UK,232,add_to_cart,Social Media,1,,1.0,,1,True
+s1145,u333,2025-04-25 10:07:51,Cart,Mobile,Safari,USA,76,checkout,Email,0,,,1.0,0,True
+s1149,u5,2025-04-25 10:15:16,Home,Tablet,Chrome,India,273,add_to_cart,Paid,1,,2.0,,1,True
+s115,u279,2025-04-25 11:34:29,Cart,Tablet,Safari,India,65,click,Organic,0,1.0,,,0,True
+s1150,u102,2025-04-25 11:37:45,Payment,Desktop,Firefox,UK,267,click,Paid,0,2.0,,,0,True
+s1153,u443,2025-04-25 10:30:12,Product,Desktop,Firefox,Germany,135,click,Paid,0,1.0,,,0,True
+s1154,u241,2025-04-25 10:02:38,Cart,Tablet,Chrome,Germany,252,click,Email,0,3.0,,,0,True
+s1155,u280,2025-04-25 10:10:05,Home,Tablet,Firefox,Germany,132,checkout,Social Media,0,,,3.0,0,True
+s1156,u32,2025-04-25 10:20:38,Home,Desktop,Safari,UK,266,checkout,Social Media,0,,,1.0,0,True
+s1157,u188,2025-04-25 11:23:32,Cart,Tablet,Firefox,USA,165,checkout,Social Media,0,,,1.0,0,True
+s1158,u372,2025-04-25 11:32:35,Cart,Tablet,Safari,India,113,checkout,Email,0,,,1.0,0,True
+s1159,u232,2025-04-25 10:46:07,Payment,Mobile,Safari,USA,255,click,Social Media,0,1.0,,,0,True
+s116,u120,2025-04-25 11:22:08,Product,Desktop,Safari,Germany,60,add_to_cart,Paid,1,,1.0,,1,True
+s1160,u350,2025-04-25 11:48:12,Product,Desktop,Chrome,India,216,add_to_cart,Paid,1,,1.0,,1,True
+s1161,u456,2025-04-25 11:55:10,Cart,Desktop,Safari,India,139,click,Paid,0,1.0,,,0,True
+s1162,u93,2025-04-25 10:03:17,Cart,Desktop,Firefox,Germany,265,click,Social Media,0,2.0,,,0,True
+s1164,u141,2025-04-25 11:21:09,Home,Desktop,Chrome,UK,66,click,Email,0,1.0,,,0,True
+s1166,u41,2025-04-25 10:17:21,Cart,Desktop,Chrome,Germany,119,click,Email,1,2.0,,,1,True
+s1167,u424,2025-04-25 11:52:53,Product,Tablet,Chrome,Germany,232,checkout,Paid,0,,,1.0,0,True
+s1171,u81,2025-04-25 11:55:01,Cart,Mobile,Safari,India,94,click,Email,0,1.0,,,0,True
+s1173,u275,2025-04-25 10:20:27,Product,Mobile,Safari,Germany,89,checkout,Paid,0,,,2.0,0,True
+s1175,u243,2025-04-25 10:29:22,Payment,Mobile,Safari,USA,130,checkout,Organic,0,,,1.0,0,True
+s1176,u458,2025-04-25 11:28:14,Payment,Tablet,Firefox,UK,268,add_to_cart,Paid,1,,1.0,,1,True
+s118,u183,2025-04-25 10:00:48,Payment,Mobile,Firefox,UK,87,click,Email,0,1.0,,,0,True
+s1180,u352,2025-04-25 10:31:12,Home,Tablet,Firefox,USA,202,add_to_cart,Social Media,0,,1.0,,0,True
+s1181,u162,2025-04-25 11:15:32,Home,Mobile,Safari,Germany,287,add_to_cart,Organic,1,,1.0,,1,True
+s1183,u380,2025-04-25 11:35:00,Payment,Mobile,Chrome,India,109,add_to_cart,Organic,0,,1.0,,0,True
+s1184,u268,2025-04-25 10:16:05,Home,Mobile,Safari,USA,236,add_to_cart,Social Media,0,,1.0,,0,True
+s1186,u305,2025-04-25 10:05:25,Home,Mobile,Safari,UK,299,add_to_cart,Paid,0,,1.0,,1,False
+s1187,u114,2025-04-25 11:20:47,Product,Tablet,Chrome,Germany,71,click,Social Media,0,2.0,,,0,True
+s1188,u441,2025-04-25 11:21:52,Payment,Mobile,Chrome,USA,85,click,Social Media,0,1.0,,,0,True
+s1189,u345,2025-04-25 11:36:50,Payment,Mobile,Safari,India,148,checkout,Social Media,0,,,1.0,0,True
+s1191,u247,2025-04-25 11:17:13,Payment,Mobile,Safari,Germany,237,click,Email,0,1.0,,,0,True
+s1195,u270,2025-04-25 10:30:19,Cart,Desktop,Chrome,India,197,add_to_cart,Organic,0,,1.0,,0,True
+s1198,u53,2025-04-25 10:01:00,Cart,Tablet,Safari,UK,136,checkout,Organic,0,,,1.0,0,True
+s12,u391,2025-04-25 10:55:10,Home,Mobile,Firefox,USA,176,add_to_cart,Organic,1,,1.0,,1,True
+s1201,u111,2025-04-25 11:51:00,Product,Mobile,Chrome,India,130,click,Paid,1,1.0,,,1,True
+s1203,u59,2025-04-25 10:47:30,Cart,Mobile,Safari,USA,268,checkout,Email,0,,,1.0,0,True
+s1204,u99,2025-04-25 10:14:44,Home,Desktop,Safari,India,211,click,Paid,1,1.0,,,1,True
+s1205,u12,2025-04-25 10:43:12,Payment,Tablet,Firefox,UK,206,click,Social Media,0,1.0,,,0,True
+s1206,u421,2025-04-25 11:50:09,Payment,Desktop,Safari,UK,239,checkout,Email,0,,,1.0,0,True
+s1207,u413,2025-04-25 11:26:41,Payment,Desktop,Firefox,Germany,213,add_to_cart,Social Media,1,,1.0,,1,True
+s1208,u154,2025-04-25 11:18:22,Product,Tablet,Chrome,Germany,122,add_to_cart,Email,1,,1.0,,1,True
+s121,u415,2025-04-25 10:45:29,Product,Tablet,Chrome,USA,239,checkout,Organic,0,,,1.0,0,True
+s1210,u217,2025-04-25 10:04:20,Home,Desktop,Chrome,USA,189,checkout,Organic,0,,,1.0,0,True
+s1212,u100,2025-04-25 10:33:56,Cart,Desktop,Chrome,UK,95,add_to_cart,Organic,0,,1.0,,1,False
+s1214,u297,2025-04-25 10:44:30,Payment,Desktop,Safari,UK,118,click,Email,0,2.0,,,0,True
+s1217,u316,2025-04-25 10:26:41,Payment,Desktop,Chrome,UK,61,add_to_cart,Email,1,,1.0,,1,True
+s1218,u263,2025-04-25 10:31:06,Cart,Mobile,Chrome,USA,149,add_to_cart,Paid,1,,1.0,,1,True
+s1219,u276,2025-04-25 10:20:51,Product,Mobile,Firefox,Germany,138,add_to_cart,Email,1,,1.0,,1,True
+s122,u52,2025-04-25 10:07:39,Cart,Mobile,Safari,UK,172,add_to_cart,Organic,1,,1.0,,1,True
+s1220,u479,2025-04-25 11:52:11,Product,Mobile,Firefox,Germany,120,checkout,Social Media,0,,,1.0,0,True
+s1223,u160,2025-04-25 10:23:39,Payment,Tablet,Firefox,USA,234,click,Email,0,1.0,,,0,True
+s1224,u193,2025-04-25 10:21:03,Product,Desktop,Safari,USA,244,add_to_cart,Organic,1,,1.0,,1,True
+s1225,u345,2025-04-25 11:36:01,Home,Desktop,Safari,India,162,add_to_cart,Paid,1,,1.0,,1,True
+s1226,u250,2025-04-25 10:40:57,Home,Tablet,Firefox,India,244,add_to_cart,Paid,1,,1.0,,1,True
+s1228,u220,2025-04-25 11:26:51,Product,Desktop,Safari,USA,278,checkout,Email,0,,,2.0,0,True
+s1229,u355,2025-04-25 10:45:12,Cart,Tablet,Firefox,Germany,144,click,Organic,0,1.0,,,0,True
+s123,u71,2025-04-25 10:51:08,Payment,Mobile,Chrome,USA,156,click,Organic,0,1.0,,,0,True
+s1231,u194,2025-04-25 10:29:30,Cart,Desktop,Chrome,India,154,add_to_cart,Organic,1,,2.0,,1,True
+s1232,u411,2025-04-25 10:01:09,Product,Mobile,Safari,UK,242,checkout,Email,0,,,1.0,0,True
+s1233,u437,2025-04-25 10:55:47,Home,Desktop,Firefox,UK,70,checkout,Paid,0,,,1.0,0,True
+s1235,u410,2025-04-25 11:07:32,Home,Tablet,Safari,Germany,103,add_to_cart,Email,1,,1.0,,1,True
+s1239,u205,2025-04-25 10:24:44,Cart,Mobile,Chrome,Germany,113,click,Social Media,0,1.0,,,0,True
+s1240,u362,2025-04-25 10:25:24,Payment,Mobile,Safari,India,173,click,Organic,0,1.0,,,0,True
+s1241,u128,2025-04-25 10:41:23,Cart,Tablet,Firefox,USA,129,add_to_cart,Organic,1,,2.0,,1,True
+s1243,u242,2025-04-25 11:58:24,Payment,Desktop,Chrome,Germany,213,click,Paid,0,1.0,,,0,True
+s1244,u230,2025-04-25 10:23:00,Product,Desktop,Chrome,UK,274,click,Email,0,1.0,,,0,True
+s1245,u324,2025-04-25 11:02:03,Payment,Desktop,Firefox,India,69,add_to_cart,Organic,1,,1.0,,1,True
+s1246,u452,2025-04-25 11:07:22,Product,Desktop,Safari,Germany,176,add_to_cart,Social Media,1,,1.0,,1,True
+s1247,u124,2025-04-25 11:16:53,Product,Mobile,Safari,UK,152,add_to_cart,Social Media,1,,1.0,,1,True
+s1248,u326,2025-04-25 10:23:21,Product,Desktop,Firefox,Germany,129,checkout,Paid,0,,,2.0,0,True
+s1249,u492,2025-04-25 11:41:02,Home,Desktop,Safari,USA,127,checkout,Organic,0,,,1.0,0,True
+s125,u204,2025-04-25 10:37:40,Product,Desktop,Firefox,India,229,click,Organic,0,1.0,,,0,True
+s1250,u333,2025-04-25 10:22:24,Payment,Mobile,Safari,USA,220,checkout,Paid,0,,,1.0,0,True
+s1251,u307,2025-04-25 11:42:37,Payment,Desktop,Safari,USA,95,add_to_cart,Paid,1,,1.0,,1,True
+s1252,u339,2025-04-25 11:34:24,Product,Mobile,Safari,UK,298,click,Organic,0,1.0,,,0,True
+s1253,u481,2025-04-25 11:41:22,Home,Tablet,Chrome,Germany,176,click,Paid,0,1.0,,,0,True
+s1254,u453,2025-04-25 10:11:46,Home,Mobile,Firefox,Germany,194,add_to_cart,Social Media,1,,1.0,,1,True
+s1256,u458,2025-04-25 11:37:23,Product,Tablet,Safari,USA,282,click,Organic,0,1.0,,,0,True
+s1258,u96,2025-04-25 10:59:16,Payment,Desktop,Chrome,UK,178,checkout,Paid,0,,,1.0,0,True
+s1259,u274,2025-04-25 10:12:45,Product,Tablet,Safari,USA,103,checkout,Email,0,,,1.0,0,True
+s126,u306,2025-04-25 11:49:33,Product,Tablet,Safari,UK,155,checkout,Social Media,0,,,1.0,0,True
+s1260,u393,2025-04-25 10:02:08,Product,Desktop,Chrome,India,212,click,Social Media,0,1.0,,,0,True
+s1261,u429,2025-04-25 11:11:49,Home,Tablet,Firefox,USA,76,add_to_cart,Email,1,,1.0,,1,True
+s1262,u414,2025-04-25 11:13:28,Payment,Mobile,Firefox,UK,142,click,Organic,0,1.0,,,0,True
+s1263,u430,2025-04-25 11:04:39,Product,Desktop,Firefox,UK,165,add_to_cart,Email,1,,1.0,,1,True
+s1264,u347,2025-04-25 10:48:09,Cart,Mobile,Chrome,India,211,click,Paid,0,1.0,,,0,True
+s1265,u431,2025-04-25 10:30:05,Payment,Mobile,Chrome,UK,74,checkout,Paid,0,,,1.0,0,True
+s1267,u461,2025-04-25 11:16:16,Product,Desktop,Firefox,Germany,220,add_to_cart,Organic,1,,1.0,,1,True
+s1269,u302,2025-04-25 11:05:19,Home,Tablet,Firefox,India,187,add_to_cart,Email,1,,1.0,,1,True
+s127,u314,2025-04-25 10:34:11,Home,Desktop,Safari,India,173,add_to_cart,Organic,1,,1.0,,1,True
+s1273,u135,2025-04-25 11:14:31,Payment,Desktop,Safari,UK,227,checkout,Email,0,,,1.0,0,True
+s1276,u311,2025-04-25 11:35:40,Product,Mobile,Chrome,India,132,click,Organic,0,1.0,,,0,True
+s1277,u338,2025-04-25 11:09:44,Cart,Desktop,Safari,UK,296,add_to_cart,Organic,1,,1.0,,1,True
+s1278,u353,2025-04-25 10:27:24,Home,Desktop,Chrome,USA,214,click,Organic,0,1.0,,,0,True
+s1279,u369,2025-04-25 10:37:50,Cart,Mobile,Chrome,USA,116,checkout,Email,0,,,1.0,0,True
+s1281,u163,2025-04-25 11:37:10,Payment,Mobile,Firefox,Germany,199,click,Paid,0,1.0,,,0,True
+s1282,u196,2025-04-25 11:15:48,Product,Tablet,Firefox,UK,87,add_to_cart,Social Media,1,,1.0,,1,True
+s1284,u34,2025-04-25 10:28:46,Product,Tablet,Firefox,India,112,checkout,Social Media,0,,,2.0,0,True
+s1285,u295,2025-04-25 10:52:51,Cart,Tablet,Firefox,UK,170,add_to_cart,Email,1,,1.0,,1,True
+s1287,u157,2025-04-25 10:42:50,Home,Desktop,Chrome,USA,192,checkout,Paid,0,,,1.0,0,True
+s1288,u395,2025-04-25 11:21:00,Product,Desktop,Safari,India,206,add_to_cart,Organic,1,,1.0,,1,True
+s1289,u373,2025-04-25 10:05:45,Home,Mobile,Firefox,UK,110,add_to_cart,Organic,1,,1.0,,1,True
+s129,u57,2025-04-25 11:54:14,Payment,Tablet,Safari,India,221,checkout,Paid,0,,,1.0,0,True
+s1293,u91,2025-04-25 10:44:52,Payment,Tablet,Firefox,UK,127,checkout,Paid,0,,,1.0,0,True
+s1294,u250,2025-04-25 11:16:38,Cart,Desktop,Chrome,UK,137,add_to_cart,Email,1,,1.0,,1,True
+s1299,u146,2025-04-25 11:35:51,Home,Desktop,Chrome,India,226,click,Social Media,1,1.0,,,1,True
+s130,u412,2025-04-25 10:27:40,Payment,Mobile,Safari,Germany,143,click,Paid,0,1.0,,,0,True
+s1301,u449,2025-04-25 10:12:06,Product,Desktop,Firefox,India,185,checkout,Paid,0,,,1.0,0,True
+s1302,u473,2025-04-25 10:16:54,Home,Desktop,Firefox,Germany,212,add_to_cart,Paid,1,,2.0,,1,True
+s1305,u229,2025-04-25 11:31:14,Home,Tablet,Safari,USA,207,add_to_cart,Social Media,0,,1.0,,0,True
+s1306,u261,2025-04-25 10:34:59,Cart,Mobile,Firefox,Germany,107,click,Paid,0,1.0,,,0,True
+s1307,u120,2025-04-25 10:07:10,Home,Mobile,Firefox,Germany,85,checkout,Paid,0,,,2.0,0,True
+s1308,u127,2025-04-25 10:28:05,Cart,Desktop,Safari,Germany,155,click,Social Media,0,1.0,,,0,True
+s1309,u497,2025-04-25 11:18:58,Home,Desktop,Chrome,USA,167,checkout,Paid,0,,,1.0,0,True
+s131,u266,2025-04-25 11:54:17,Home,Desktop,Safari,India,106,checkout,Paid,0,,,1.0,0,True
+s1310,u58,2025-04-25 10:03:24,Cart,Desktop,Chrome,USA,248,click,Organic,0,1.0,,,0,True
+s1315,u490,2025-04-25 10:41:14,Payment,Desktop,Safari,Germany,136,add_to_cart,Organic,1,,1.0,,1,True
+s1318,u406,2025-04-25 10:44:50,Product,Tablet,Safari,India,225,checkout,Social Media,0,,,1.0,0,True
+s1319,u287,2025-04-25 10:11:37,Product,Tablet,Safari,India,205,checkout,Paid,0,,,1.0,0,True
+s1320,u437,2025-04-25 10:05:45,Payment,Desktop,Chrome,India,140,checkout,Email,0,,,1.0,0,True
+s1322,u358,2025-04-25 10:08:49,Payment,Tablet,Chrome,Germany,206,add_to_cart,Email,1,,1.0,,1,True
+s1323,u311,2025-04-25 10:11:11,Cart,Desktop,Safari,USA,127,checkout,Organic,0,,,1.0,0,True
+s1325,u419,2025-04-25 10:09:50,Product,Desktop,Firefox,UK,69,click,Organic,0,1.0,,,0,True
+s1326,u362,2025-04-25 10:40:21,Payment,Mobile,Safari,USA,264,checkout,Social Media,0,,,1.0,0,True
+s1327,u33,2025-04-25 11:26:45,Payment,Tablet,Firefox,Germany,89,click,Organic,1,1.0,,,0,False
+s1329,u178,2025-04-25 11:26:22,Cart,Mobile,Chrome,UK,244,click,Social Media,0,1.0,,,0,True
+s1330,u407,2025-04-25 10:41:13,Payment,Desktop,Chrome,India,290,click,Social Media,0,1.0,,,0,True
+s1331,u42,2025-04-25 11:56:17,Cart,Tablet,Safari,Germany,141,checkout,Social Media,0,,,1.0,0,True
+s1332,u320,2025-04-25 10:50:22,Home,Desktop,Chrome,Germany,137,checkout,Social Media,0,,,1.0,0,True
+s1334,u108,2025-04-25 11:44:42,Payment,Tablet,Safari,India,187,checkout,Email,0,,,1.0,0,True
+s1337,u382,2025-04-25 10:51:15,Home,Mobile,Safari,Germany,130,checkout,Social Media,0,,,1.0,0,True
+s1339,u441,2025-04-25 10:47:28,Home,Desktop,Safari,Germany,195,click,Paid,0,1.0,,,0,True
+s134,u489,2025-04-25 11:38:08,Cart,Tablet,Firefox,India,242,checkout,Social Media,0,,,1.0,0,True
+s1341,u185,2025-04-25 10:34:11,Home,Mobile,Safari,USA,73,add_to_cart,Email,1,,1.0,,1,True
+s1342,u26,2025-04-25 11:10:48,Product,Mobile,Safari,USA,100,checkout,Social Media,0,,,1.0,0,True
+s1343,u331,2025-04-25 11:47:25,Cart,Mobile,Safari,Germany,177,add_to_cart,Paid,1,,2.0,,1,True
+s1344,u442,2025-04-25 10:55:13,Home,Desktop,Firefox,USA,207,checkout,Social Media,0,,,2.0,0,True
+s1345,u150,2025-04-25 11:50:26,Home,Mobile,Firefox,India,92,checkout,Organic,0,,,1.0,0,True
+s1346,u67,2025-04-25 10:37:30,Cart,Mobile,Safari,UK,84,click,Paid,0,1.0,,,0,True
+s1347,u65,2025-04-25 10:19:28,Payment,Tablet,Safari,UK,73,checkout,Email,0,,,1.0,0,True
+s1349,u76,2025-04-25 10:27:21,Product,Mobile,Firefox,India,107,click,Paid,0,2.0,,,0,True
+s135,u248,2025-04-25 10:03:56,Payment,Tablet,Chrome,India,128,checkout,Organic,0,,,1.0,0,True
+s1350,u221,2025-04-25 10:48:22,Payment,Mobile,Firefox,India,232,checkout,Organic,0,,,1.0,0,True
+s1351,u250,2025-04-25 10:02:08,Home,Tablet,Safari,Germany,63,click,Email,0,1.0,,,0,True
+s1353,u157,2025-04-25 10:04:16,Cart,Desktop,Safari,UK,296,add_to_cart,Paid,1,,1.0,,1,True
+s1354,u118,2025-04-25 10:56:36,Cart,Tablet,Chrome,Germany,232,add_to_cart,Social Media,1,,1.0,,1,True
+s1355,u207,2025-04-25 10:01:26,Cart,Mobile,Firefox,UK,113,add_to_cart,Social Media,1,,1.0,,1,True
+s1357,u484,2025-04-25 10:54:40,Home,Mobile,Chrome,UK,124,add_to_cart,Organic,1,,1.0,,1,True
+s1358,u437,2025-04-25 11:30:07,Cart,Desktop,Chrome,UK,282,checkout,Social Media,0,,,1.0,0,True
+s136,u288,2025-04-25 10:11:35,Product,Tablet,Chrome,UK,131,add_to_cart,Email,1,,1.0,,1,True
+s1360,u244,2025-04-25 11:05:18,Payment,Desktop,Chrome,USA,159,checkout,Organic,0,,,1.0,0,True
+s1361,u17,2025-04-25 10:54:24,Home,Mobile,Safari,India,129,checkout,Organic,0,,,1.0,0,True
+s1363,u205,2025-04-25 10:18:10,Product,Desktop,Chrome,USA,205,click,Email,1,1.0,,,1,True
+s1364,u137,2025-04-25 10:14:11,Payment,Tablet,Safari,Germany,215,checkout,Social Media,0,,,1.0,0,True
+s1365,u293,2025-04-25 10:11:56,Home,Desktop,Firefox,UK,85,click,Organic,0,1.0,,,0,True
+s1366,u53,2025-04-25 10:48:17,Payment,Tablet,Safari,USA,296,click,Paid,0,1.0,,,0,True
+s1367,u248,2025-04-25 10:17:37,Product,Desktop,Chrome,Germany,85,add_to_cart,Social Media,1,,1.0,,1,True
+s1368,u61,2025-04-25 11:03:32,Cart,Desktop,Firefox,UK,236,click,Email,1,1.0,,,0,False
+s1369,u303,2025-04-25 11:10:59,Cart,Desktop,Firefox,Germany,155,checkout,Paid,0,,,1.0,0,True
+s1372,u367,2025-04-25 10:42:53,Product,Mobile,Firefox,USA,231,checkout,Email,0,,,1.0,0,True
+s1373,u473,2025-04-25 10:05:53,Home,Tablet,Firefox,UK,113,add_to_cart,Email,1,,1.0,,1,True
+s1374,u180,2025-04-25 10:03:59,Home,Desktop,Safari,UK,208,add_to_cart,Email,1,,1.0,,1,True
+s1376,u333,2025-04-25 10:50:59,Payment,Tablet,Firefox,India,123,click,Organic,0,1.0,,,0,True
+s1377,u54,2025-04-25 10:54:07,Payment,Tablet,Safari,India,90,click,Social Media,0,1.0,,,0,True
+s138,u3,2025-04-25 10:42:34,Product,Desktop,Safari,India,197,add_to_cart,Email,1,,1.0,,1,True
+s1380,u310,2025-04-25 11:22:19,Home,Desktop,Chrome,USA,182,click,Email,0,1.0,,,0,True
+s1381,u42,2025-04-25 10:37:09,Payment,Tablet,Firefox,Germany,215,add_to_cart,Social Media,0,,1.0,,0,True
+s1383,u284,2025-04-25 10:24:15,Home,Tablet,Safari,Germany,66,click,Paid,0,1.0,,,0,True
+s1387,u154,2025-04-25 10:35:31,Product,Desktop,Firefox,Germany,202,checkout,Paid,0,,,1.0,0,True
+s1388,u384,2025-04-25 10:23:45,Cart,Mobile,Safari,India,137,add_to_cart,Paid,1,,1.0,,1,True
+s1389,u14,2025-04-25 10:24:27,Payment,Tablet,Safari,UK,99,add_to_cart,Organic,0,,2.0,,0,True
+s139,u172,2025-04-25 10:02:24,Payment,Mobile,Safari,USA,188,checkout,Organic,0,,,1.0,0,True
+s1390,u206,2025-04-25 10:40:59,Home,Desktop,Safari,India,167,add_to_cart,Email,1,,1.0,,1,True
+s1391,u307,2025-04-25 10:07:08,Cart,Desktop,Firefox,India,202,checkout,Social Media,0,,,1.0,0,True
+s1396,u26,2025-04-25 11:28:14,Product,Desktop,Chrome,India,73,click,Email,0,1.0,,,0,True
+s1397,u347,2025-04-25 10:55:28,Payment,Mobile,Chrome,Germany,126,checkout,Organic,0,,,1.0,0,True
+s14,u154,2025-04-25 10:30:17,Product,Mobile,Chrome,UK,295,checkout,Paid,0,,,1.0,0,True
+s140,u363,2025-04-25 10:20:37,Home,Desktop,Safari,Germany,155,click,Social Media,0,1.0,,,0,True
+s1401,u317,2025-04-25 10:58:34,Home,Tablet,Chrome,UK,147,checkout,Email,0,,,1.0,0,True
+s1402,u47,2025-04-25 10:50:33,Home,Tablet,Safari,Germany,201,checkout,Paid,0,,,1.0,0,True
+s1403,u167,2025-04-25 11:55:04,Home,Desktop,Chrome,UK,162,add_to_cart,Organic,1,,1.0,,1,True
+s1404,u192,2025-04-25 10:21:17,Home,Desktop,Safari,India,122,checkout,Paid,0,,,1.0,0,True
+s1405,u171,2025-04-25 10:46:36,Payment,Tablet,Safari,India,273,click,Paid,0,1.0,,,0,True
+s1406,u233,2025-04-25 10:01:34,Payment,Tablet,Safari,Germany,168,click,Email,0,1.0,,,0,True
+s1407,u177,2025-04-25 11:31:48,Product,Tablet,Safari,USA,188,checkout,Email,0,,,1.0,0,True
+s1408,u14,2025-04-25 10:49:03,Home,Tablet,Firefox,USA,188,checkout,Social Media,0,,,1.0,0,True
+s1410,u306,2025-04-25 10:21:09,Cart,Desktop,Chrome,USA,187,click,Email,0,1.0,,,0,True
+s1411,u31,2025-04-25 10:21:34,Payment,Mobile,Firefox,Germany,112,add_to_cart,Paid,1,,1.0,,1,True
+s1413,u60,2025-04-25 10:56:54,Payment,Mobile,Chrome,UK,181,checkout,Paid,0,,,1.0,0,True
+s1414,u265,2025-04-25 10:19:25,Payment,Tablet,Firefox,India,244,checkout,Organic,0,,,1.0,0,True
+s1415,u244,2025-04-25 11:28:11,Payment,Mobile,Chrome,India,135,click,Social Media,0,2.0,,,0,True
+s1417,u125,2025-04-25 10:41:48,Cart,Mobile,Safari,UK,168,checkout,Email,0,,,1.0,0,True
+s142,u258,2025-04-25 10:24:44,Payment,Mobile,Safari,Germany,265,checkout,Organic,0,,,1.0,0,True
+s1420,u124,2025-04-25 11:00:45,Payment,Mobile,Chrome,UK,203,checkout,Organic,0,,,1.0,0,True
+s1421,u300,2025-04-25 10:20:48,Cart,Mobile,Firefox,USA,61,add_to_cart,Paid,1,,2.0,,1,True
+s1423,u109,2025-04-25 11:02:10,Payment,Desktop,Safari,USA,203,add_to_cart,Organic,1,,1.0,,1,True
+s1424,u358,2025-04-25 11:31:14,Home,Mobile,Safari,India,125,click,Organic,0,1.0,,,0,True
+s1425,u310,2025-04-25 11:36:05,Product,Mobile,Chrome,UK,258,add_to_cart,Social Media,1,,1.0,,1,True
+s1426,u108,2025-04-25 11:23:33,Home,Desktop,Safari,India,183,checkout,Email,0,,,1.0,0,True
+s1427,u214,2025-04-25 10:55:44,Product,Mobile,Firefox,USA,253,checkout,Social Media,0,,,1.0,0,True
+s1428,u193,2025-04-25 10:45:49,Cart,Tablet,Firefox,Germany,241,add_to_cart,Paid,1,,1.0,,1,True
+s1429,u278,2025-04-25 11:09:03,Cart,Mobile,Safari,Germany,167,checkout,Email,0,,,1.0,0,True
+s143,u467,2025-04-25 10:52:41,Cart,Desktop,Chrome,UK,228,checkout,Organic,0,,,1.0,0,True
+s1430,u217,2025-04-25 10:46:27,Cart,Desktop,Chrome,UK,86,click,Social Media,0,1.0,,,0,True
+s1435,u157,2025-04-25 10:35:55,Payment,Mobile,Firefox,India,129,checkout,Social Media,0,,,1.0,0,True
+s1436,u459,2025-04-25 10:50:51,Payment,Tablet,Chrome,India,189,click,Social Media,0,1.0,,,0,True
+s1437,u6,2025-04-25 10:22:22,Payment,Mobile,Safari,UK,102,add_to_cart,Paid,0,,1.0,,1,False
+s1440,u45,2025-04-25 10:32:06,Cart,Desktop,Chrome,India,152,checkout,Social Media,0,,,1.0,0,True
+s1443,u16,2025-04-25 10:58:53,Product,Tablet,Firefox,USA,73,click,Email,0,1.0,,,0,True
+s1445,u487,2025-04-25 11:24:54,Payment,Mobile,Chrome,USA,293,click,Paid,0,1.0,,,0,True
+s1446,u71,2025-04-25 11:10:49,Product,Tablet,Firefox,Germany,194,add_to_cart,Email,1,,1.0,,1,True
+s1447,u125,2025-04-25 11:44:10,Home,Mobile,Chrome,UK,255,click,Social Media,0,1.0,,,0,True
+s1448,u225,2025-04-25 11:16:19,Cart,Tablet,Safari,Germany,108,checkout,Paid,0,,,1.0,0,True
+s1449,u399,2025-04-25 10:34:00,Payment,Tablet,Firefox,USA,172,add_to_cart,Social Media,1,,2.0,,1,True
+s145,u327,2025-04-25 10:15:37,Home,Desktop,Firefox,India,106,checkout,Email,0,,,1.0,0,True
+s1453,u470,2025-04-25 10:18:38,Cart,Tablet,Safari,Germany,184,add_to_cart,Organic,0,,1.0,,1,False
+s1455,u92,2025-04-25 10:05:17,Payment,Tablet,Firefox,Germany,221,checkout,Paid,0,,,3.0,0,True
+s1457,u74,2025-04-25 11:54:40,Payment,Tablet,Firefox,Germany,237,add_to_cart,Organic,1,,1.0,,1,True
+s1458,u494,2025-04-25 11:21:34,Home,Desktop,Safari,Germany,172,click,Paid,1,2.0,,,1,True
+s1459,u387,2025-04-25 10:48:55,Home,Desktop,Safari,India,195,add_to_cart,Paid,1,,1.0,,1,True
+s1460,u228,2025-04-25 11:00:25,Product,Tablet,Firefox,Germany,65,checkout,Email,0,,,2.0,0,True
+s1462,u147,2025-04-25 10:32:00,Cart,Mobile,Firefox,India,95,click,Paid,0,1.0,,,0,True
+s1463,u194,2025-04-25 11:10:57,Product,Desktop,Firefox,USA,270,add_to_cart,Social Media,1,,1.0,,1,True
+s1464,u191,2025-04-25 11:16:57,Product,Mobile,Chrome,UK,261,add_to_cart,Social Media,1,,1.0,,1,True
+s1466,u200,2025-04-25 11:06:33,Home,Tablet,Safari,Germany,228,checkout,Social Media,0,,,1.0,0,True
+s1468,u337,2025-04-25 10:49:36,Payment,Desktop,Chrome,USA,60,add_to_cart,Email,1,,1.0,,1,True
+s1469,u169,2025-04-25 10:29:11,Payment,Tablet,Firefox,USA,203,click,Social Media,0,2.0,,,0,True
+s147,u329,2025-04-25 10:58:13,Cart,Desktop,Chrome,UK,215,add_to_cart,Email,1,,1.0,,1,True
+s1470,u433,2025-04-25 11:18:56,Home,Tablet,Firefox,UK,77,checkout,Social Media,0,,,1.0,0,True
+s1472,u376,2025-04-25 10:16:52,Home,Desktop,Safari,Germany,222,add_to_cart,Organic,0,,1.0,,0,True
+s1475,u304,2025-04-25 10:32:33,Payment,Mobile,Chrome,UK,187,checkout,Social Media,0,,,1.0,0,True
+s1476,u1,2025-04-25 10:06:34,Payment,Mobile,Safari,Germany,102,add_to_cart,Social Media,1,,1.0,,1,True
+s1478,u27,2025-04-25 11:19:40,Payment,Desktop,Safari,Germany,97,checkout,Paid,0,,,1.0,0,True
+s1479,u87,2025-04-25 10:50:02,Payment,Tablet,Firefox,USA,293,click,Social Media,0,1.0,,,0,True
+s148,u271,2025-04-25 11:39:13,Cart,Mobile,Safari,USA,239,checkout,Social Media,0,,,1.0,0,True
+s1480,u74,2025-04-25 10:55:58,Product,Desktop,Firefox,UK,146,checkout,Social Media,0,,,2.0,0,True
+s1482,u371,2025-04-25 10:13:49,Cart,Tablet,Chrome,Germany,135,add_to_cart,Social Media,0,,1.0,,1,False
+s1483,u478,2025-04-25 10:43:55,Cart,Desktop,Chrome,India,235,click,Organic,0,1.0,,,0,True
+s1485,u285,2025-04-25 10:38:09,Payment,Desktop,Safari,UK,286,checkout,Email,0,,,1.0,0,True
+s1486,u428,2025-04-25 10:18:57,Home,Tablet,Chrome,UK,239,click,Email,0,1.0,,,0,True
+s1487,u327,2025-04-25 10:22:50,Product,Tablet,Safari,UK,73,checkout,Email,0,,,1.0,0,True
+s1488,u99,2025-04-25 11:04:04,Cart,Mobile,Chrome,USA,210,checkout,Email,0,,,1.0,0,True
+s1489,u402,2025-04-25 11:16:57,Cart,Desktop,Safari,Germany,208,click,Organic,0,1.0,,,0,True
+s1490,u39,2025-04-25 10:02:32,Home,Tablet,Safari,Germany,256,checkout,Paid,0,,,1.0,0,True
+s1491,u355,2025-04-25 10:17:16,Cart,Mobile,Firefox,USA,83,add_to_cart,Email,1,,1.0,,1,True
+s1492,u218,2025-04-25 10:29:11,Product,Mobile,Firefox,USA,298,checkout,Organic,0,,,1.0,0,True
+s1493,u214,2025-04-25 11:22:35,Home,Desktop,Firefox,USA,293,add_to_cart,Social Media,1,,1.0,,1,True
+s1495,u45,2025-04-25 10:25:20,Cart,Tablet,Safari,India,256,click,Organic,0,1.0,,,0,True
+s1497,u495,2025-04-25 10:38:11,Product,Mobile,Chrome,India,244,checkout,Social Media,0,,,1.0,0,True
+s1499,u19,2025-04-25 11:12:32,Payment,Desktop,Chrome,India,196,click,Paid,0,1.0,,,0,True
+s1501,u446,2025-04-25 10:13:33,Product,Tablet,Firefox,UK,269,click,Organic,0,2.0,,,0,True
+s1503,u95,2025-04-25 10:02:33,Cart,Tablet,Chrome,UK,244,click,Social Media,0,1.0,,,0,True
+s1504,u198,2025-04-25 10:40:07,Product,Tablet,Chrome,India,92,add_to_cart,Organic,0,,1.0,,0,True
+s1506,u334,2025-04-25 10:01:14,Cart,Tablet,Safari,India,233,click,Social Media,0,1.0,,,0,True
+s1507,u71,2025-04-25 11:56:44,Home,Tablet,Chrome,Germany,260,checkout,Paid,0,,,1.0,0,True
+s1508,u375,2025-04-25 11:06:00,Cart,Desktop,Chrome,Germany,119,click,Email,0,1.0,,,1,False
+s151,u461,2025-04-25 10:11:01,Cart,Tablet,Chrome,India,92,add_to_cart,Email,1,,1.0,,1,True
+s1510,u47,2025-04-25 10:39:18,Payment,Mobile,Safari,UK,160,checkout,Paid,0,,,1.0,0,True
+s1511,u481,2025-04-25 11:42:42,Product,Tablet,Chrome,UK,150,add_to_cart,Social Media,1,,1.0,,1,True
+s1512,u385,2025-04-25 10:52:38,Payment,Desktop,Chrome,UK,157,checkout,Paid,0,,,1.0,0,True
+s1513,u472,2025-04-25 10:48:27,Payment,Mobile,Safari,Germany,249,add_to_cart,Email,1,,1.0,,1,True
+s1514,u157,2025-04-25 11:56:24,Product,Desktop,Firefox,India,102,click,Email,0,1.0,,,0,True
+s1515,u319,2025-04-25 10:33:07,Payment,Mobile,Safari,Germany,257,click,Paid,0,1.0,,,0,True
+s1517,u300,2025-04-25 11:32:04,Home,Tablet,Chrome,USA,203,checkout,Social Media,0,,,1.0,0,True
+s1519,u58,2025-04-25 11:22:26,Product,Tablet,Safari,USA,228,add_to_cart,Email,1,,1.0,,1,True
+s152,u230,2025-04-25 11:21:38,Payment,Tablet,Firefox,Germany,199,click,Email,0,1.0,,,0,True
+s1521,u376,2025-04-25 10:17:49,Payment,Tablet,Safari,UK,107,click,Paid,0,1.0,,,1,False
+s1522,u399,2025-04-25 11:20:24,Cart,Desktop,Safari,UK,113,checkout,Social Media,0,,,1.0,0,True
+s1523,u78,2025-04-25 10:29:04,Cart,Desktop,Firefox,UK,209,add_to_cart,Social Media,0,,1.0,,0,True
+s1525,u81,2025-04-25 10:02:30,Cart,Tablet,Firefox,UK,220,add_to_cart,Paid,0,,1.0,,0,True
+s1527,u335,2025-04-25 10:02:25,Home,Mobile,Firefox,India,202,checkout,Organic,0,,,1.0,0,True
+s1528,u112,2025-04-25 11:18:57,Home,Desktop,Firefox,UK,239,click,Organic,0,1.0,,,0,True
+s1529,u254,2025-04-25 10:52:09,Product,Mobile,Chrome,USA,270,add_to_cart,Paid,1,,2.0,,1,True
+s1530,u221,2025-04-25 10:23:59,Product,Mobile,Safari,USA,188,checkout,Email,0,,,1.0,0,True
+s1531,u387,2025-04-25 11:40:46,Product,Mobile,Chrome,Germany,240,add_to_cart,Paid,1,,1.0,,1,True
+s1532,u161,2025-04-25 10:07:48,Home,Tablet,Firefox,USA,74,checkout,Organic,0,,,1.0,0,True
+s1534,u465,2025-04-25 10:17:23,Payment,Tablet,Safari,Germany,225,checkout,Paid,0,,,1.0,0,True
+s1536,u400,2025-04-25 11:59:15,Cart,Tablet,Chrome,India,145,add_to_cart,Email,1,,1.0,,1,True
+s1538,u244,2025-04-25 11:08:37,Home,Desktop,Safari,USA,64,add_to_cart,Paid,1,,1.0,,1,True
+s1539,u452,2025-04-25 11:28:04,Cart,Mobile,Safari,Germany,105,add_to_cart,Email,1,,1.0,,1,True
+s154,u304,2025-04-25 11:17:31,Home,Mobile,Safari,USA,120,add_to_cart,Email,0,,2.0,,0,True
+s1540,u145,2025-04-25 10:54:21,Product,Mobile,Firefox,UK,93,checkout,Organic,0,,,1.0,0,True
+s1542,u449,2025-04-25 11:39:20,Home,Desktop,Safari,UK,268,click,Email,1,1.0,,,1,True
+s1545,u495,2025-04-25 10:30:48,Payment,Tablet,Firefox,India,262,add_to_cart,Organic,1,,1.0,,1,True
+s1547,u74,2025-04-25 10:27:10,Payment,Tablet,Chrome,India,69,click,Email,0,1.0,,,0,True
+s1548,u420,2025-04-25 10:15:50,Home,Desktop,Firefox,Germany,181,add_to_cart,Social Media,1,,1.0,,1,True
+s1549,u494,2025-04-25 10:39:13,Cart,Mobile,Safari,India,292,click,Paid,0,1.0,,,0,True
+s1550,u287,2025-04-25 11:13:29,Product,Mobile,Safari,India,110,click,Organic,0,1.0,,,0,True
+s1551,u213,2025-04-25 10:06:20,Home,Mobile,Firefox,USA,187,click,Organic,0,3.0,,,0,True
+s1552,u221,2025-04-25 10:05:48,Product,Desktop,Chrome,India,180,click,Email,1,2.0,,,1,True
+s1554,u150,2025-04-25 10:30:40,Home,Desktop,Safari,UK,121,checkout,Social Media,0,,,1.0,0,True
+s1556,u265,2025-04-25 11:58:24,Cart,Desktop,Safari,USA,76,add_to_cart,Social Media,1,,1.0,,1,True
+s1557,u40,2025-04-25 11:30:15,Payment,Mobile,Chrome,UK,229,add_to_cart,Social Media,1,,1.0,,1,True
+s1558,u80,2025-04-25 11:51:54,Payment,Desktop,Firefox,Germany,278,click,Email,0,1.0,,,0,True
+s1559,u397,2025-04-25 10:23:01,Product,Mobile,Chrome,USA,217,add_to_cart,Social Media,0,,1.0,,0,True
+s1560,u231,2025-04-25 11:31:05,Payment,Desktop,Safari,UK,82,checkout,Social Media,0,,,1.0,0,True
+s1561,u70,2025-04-25 11:05:39,Product,Mobile,Firefox,USA,203,checkout,Paid,0,,,1.0,0,True
+s1563,u40,2025-04-25 11:18:21,Product,Tablet,Firefox,Germany,140,checkout,Email,0,,,3.0,0,True
+s1564,u266,2025-04-25 10:35:53,Home,Mobile,Firefox,India,199,click,Organic,0,1.0,,,0,True
+s1565,u486,2025-04-25 10:29:57,Payment,Mobile,Chrome,USA,120,checkout,Email,0,,,1.0,0,True
+s1567,u366,2025-04-25 11:44:34,Cart,Tablet,Firefox,UK,181,checkout,Social Media,0,,,2.0,0,True
+s1570,u144,2025-04-25 10:30:05,Cart,Tablet,Firefox,India,230,click,Social Media,0,1.0,,,0,True
+s1571,u300,2025-04-25 10:31:46,Product,Desktop,Chrome,USA,128,checkout,Organic,0,,,1.0,0,True
+s1573,u179,2025-04-25 11:22:31,Product,Tablet,Chrome,Germany,269,checkout,Organic,0,,,1.0,0,True
+s1574,u154,2025-04-25 10:44:04,Cart,Mobile,Chrome,Germany,275,checkout,Organic,0,,,2.0,0,True
+s1575,u329,2025-04-25 10:46:26,Home,Mobile,Firefox,USA,176,click,Email,0,1.0,,,0,True
+s1576,u447,2025-04-25 10:13:24,Product,Desktop,Safari,India,177,add_to_cart,Organic,1,,1.0,,1,True
+s1579,u204,2025-04-25 11:11:32,Home,Desktop,Firefox,USA,81,checkout,Social Media,0,,,1.0,0,True
+s158,u331,2025-04-25 11:57:59,Home,Tablet,Safari,Germany,178,checkout,Organic,0,,,1.0,0,True
+s1580,u274,2025-04-25 11:25:04,Home,Tablet,Chrome,India,227,click,Organic,0,1.0,,,0,True
+s1583,u405,2025-04-25 11:56:39,Payment,Mobile,Safari,UK,270,click,Email,0,1.0,,,0,True
+s1584,u168,2025-04-25 10:38:39,Payment,Tablet,Firefox,India,148,add_to_cart,Organic,1,,2.0,,1,True
+s1585,u452,2025-04-25 11:06:02,Payment,Tablet,Firefox,USA,67,add_to_cart,Email,1,,2.0,,1,True
+s1586,u57,2025-04-25 11:55:34,Cart,Desktop,Firefox,Germany,210,click,Email,0,1.0,,,0,True
+s1588,u279,2025-04-25 11:52:24,Cart,Tablet,Chrome,Germany,199,click,Social Media,0,1.0,,,0,True
+s1590,u372,2025-04-25 10:26:25,Cart,Mobile,Chrome,India,107,click,Organic,0,1.0,,,0,True
+s1593,u99,2025-04-25 11:48:02,Cart,Tablet,Chrome,UK,277,click,Social Media,0,1.0,,,0,True
+s1595,u249,2025-04-25 10:56:15,Cart,Desktop,Chrome,USA,99,checkout,Paid,0,,,1.0,0,True
+s1597,u372,2025-04-25 10:36:46,Product,Mobile,Firefox,UK,154,click,Email,0,1.0,,,0,True
+s1598,u205,2025-04-25 10:25:39,Home,Mobile,Firefox,USA,235,add_to_cart,Organic,1,,1.0,,1,True
+s160,u316,2025-04-25 10:14:38,Home,Desktop,Safari,India,279,click,Email,0,1.0,,,0,True
+s1601,u324,2025-04-25 11:18:08,Product,Tablet,Safari,USA,268,click,Social Media,0,1.0,,,0,True
+s1604,u496,2025-04-25 10:19:26,Cart,Tablet,Chrome,USA,197,add_to_cart,Social Media,1,,1.0,,1,True
+s1605,u119,2025-04-25 10:29:33,Home,Tablet,Chrome,USA,102,add_to_cart,Organic,1,,1.0,,1,True
+s1606,u230,2025-04-25 10:15:53,Home,Mobile,Chrome,UK,96,click,Social Media,0,2.0,,,0,True
+s1607,u223,2025-04-25 11:17:26,Cart,Tablet,Safari,USA,104,checkout,Organic,0,,,1.0,0,True
+s1610,u114,2025-04-25 11:37:14,Payment,Mobile,Firefox,USA,233,checkout,Email,0,,,1.0,0,True
+s1611,u202,2025-04-25 10:20:12,Product,Mobile,Chrome,Germany,206,checkout,Organic,0,,,2.0,0,True
+s1612,u144,2025-04-25 11:15:46,Cart,Tablet,Firefox,USA,290,click,Email,0,1.0,,,0,True
+s1613,u117,2025-04-25 10:18:50,Payment,Mobile,Firefox,Germany,278,checkout,Email,0,,,1.0,0,True
+s1614,u351,2025-04-25 10:11:03,Cart,Tablet,Chrome,UK,287,click,Organic,0,1.0,,,0,True
+s1616,u2,2025-04-25 11:57:39,Product,Tablet,Chrome,UK,97,add_to_cart,Social Media,1,,1.0,,1,True
+s1618,u404,2025-04-25 10:32:29,Cart,Desktop,Chrome,UK,73,click,Social Media,0,2.0,,,0,True
+s162,u262,2025-04-25 10:27:44,Product,Tablet,Firefox,Germany,210,checkout,Organic,0,,,1.0,0,True
+s1621,u75,2025-04-25 10:18:47,Home,Mobile,Firefox,USA,254,checkout,Social Media,0,,,1.0,0,True
+s1624,u388,2025-04-25 10:59:02,Home,Tablet,Firefox,USA,102,click,Social Media,0,2.0,,,0,True
+s1626,u99,2025-04-25 11:17:56,Cart,Mobile,Safari,USA,237,click,Email,0,1.0,,,0,True
+s1627,u142,2025-04-25 11:19:49,Home,Mobile,Chrome,India,70,checkout,Social Media,0,,,1.0,0,True
+s1629,u220,2025-04-25 11:24:40,Home,Mobile,Safari,India,176,checkout,Email,0,,,1.0,0,True
+s163,u91,2025-04-25 10:26:59,Cart,Desktop,Safari,USA,239,click,Organic,0,1.0,,,0,True
+s1631,u242,2025-04-25 11:49:11,Product,Tablet,Chrome,UK,236,checkout,Organic,0,,,1.0,0,True
+s1632,u323,2025-04-25 10:53:32,Cart,Tablet,Firefox,UK,84,click,Organic,0,1.0,,,0,True
+s1633,u23,2025-04-25 10:08:15,Product,Mobile,Safari,Germany,191,checkout,Email,0,,,1.0,0,True
+s1635,u150,2025-04-25 11:21:30,Product,Desktop,Safari,UK,108,add_to_cart,Social Media,1,,1.0,,1,True
+s1636,u263,2025-04-25 11:55:32,Home,Tablet,Firefox,USA,252,click,Social Media,0,1.0,,,0,True
+s1637,u434,2025-04-25 10:04:33,Cart,Desktop,Firefox,UK,86,click,Email,0,1.0,,,0,True
+s1638,u350,2025-04-25 10:37:27,Home,Desktop,Safari,UK,146,checkout,Social Media,0,,,1.0,0,True
+s1639,u162,2025-04-25 10:56:18,Cart,Tablet,Safari,India,239,add_to_cart,Paid,1,,1.0,,1,True
+s164,u151,2025-04-25 10:11:42,Payment,Desktop,Firefox,India,147,click,Paid,0,1.0,,,0,True
+s1641,u328,2025-04-25 10:08:17,Cart,Tablet,Safari,Germany,270,add_to_cart,Organic,1,,1.0,,1,True
+s1643,u343,2025-04-25 11:57:58,Product,Mobile,Chrome,India,157,click,Social Media,1,1.0,,,0,False
+s1644,u51,2025-04-25 10:34:51,Payment,Mobile,Safari,USA,247,checkout,Paid,0,,,1.0,0,True
+s1646,u111,2025-04-25 10:56:50,Payment,Desktop,Firefox,USA,146,checkout,Email,0,,,1.0,0,True
+s1647,u243,2025-04-25 11:10:54,Payment,Desktop,Safari,USA,143,checkout,Email,0,,,1.0,0,True
+s1648,u47,2025-04-25 11:52:24,Product,Mobile,Safari,Germany,82,click,Email,0,1.0,,,0,True
+s1651,u495,2025-04-25 11:52:39,Payment,Desktop,Safari,India,101,click,Email,0,1.0,,,0,True
+s1652,u67,2025-04-25 10:46:31,Product,Mobile,Chrome,India,97,checkout,Paid,0,,,2.0,0,True
+s1653,u335,2025-04-25 11:31:06,Payment,Tablet,Safari,USA,249,checkout,Paid,0,,,1.0,0,True
+s1654,u479,2025-04-25 10:42:33,Cart,Desktop,Firefox,USA,211,checkout,Paid,0,,,1.0,0,True
+s1655,u90,2025-04-25 10:35:40,Product,Mobile,Chrome,India,147,click,Paid,0,1.0,,,0,True
+s1656,u359,2025-04-25 10:15:51,Home,Desktop,Chrome,USA,249,checkout,Organic,0,,,1.0,0,True
+s1658,u249,2025-04-25 10:17:00,Home,Desktop,Firefox,USA,121,add_to_cart,Paid,0,,1.0,,0,True
+s1660,u1,2025-04-25 11:28:46,Home,Tablet,Firefox,Germany,262,click,Organic,0,1.0,,,0,True
+s1662,u70,2025-04-25 10:08:36,Payment,Desktop,Firefox,USA,71,click,Organic,0,1.0,,,0,True
+s1666,u402,2025-04-25 10:51:35,Payment,Desktop,Safari,UK,280,click,Organic,0,1.0,,,0,True
+s167,u271,2025-04-25 11:07:01,Payment,Tablet,Safari,UK,77,add_to_cart,Social Media,1,,1.0,,1,True
+s1672,u463,2025-04-25 11:13:23,Home,Tablet,Chrome,UK,286,click,Organic,0,1.0,,,0,True
+s1674,u401,2025-04-25 10:24:24,Home,Mobile,Safari,UK,245,click,Paid,0,2.0,,,0,True
+s1675,u142,2025-04-25 11:03:35,Payment,Tablet,Chrome,UK,78,click,Email,0,1.0,,,0,True
+s1677,u361,2025-04-25 10:27:36,Product,Tablet,Safari,UK,135,add_to_cart,Organic,1,,1.0,,1,True
+s1683,u158,2025-04-25 10:02:52,Home,Tablet,Safari,India,236,checkout,Paid,0,,,1.0,0,True
+s1684,u228,2025-04-25 10:24:03,Cart,Mobile,Chrome,India,235,checkout,Social Media,0,,,1.0,0,True
+s1685,u178,2025-04-25 11:46:55,Payment,Mobile,Safari,India,180,checkout,Paid,0,,,1.0,0,True
+s1687,u295,2025-04-25 10:10:04,Product,Mobile,Safari,India,175,add_to_cart,Email,0,,1.0,,0,True
+s1688,u84,2025-04-25 10:19:42,Product,Mobile,Safari,Germany,93,checkout,Organic,0,,,1.0,0,True
+s1689,u205,2025-04-25 11:22:34,Product,Tablet,Firefox,Germany,177,add_to_cart,Organic,1,,1.0,,1,True
+s169,u252,2025-04-25 10:03:15,Payment,Desktop,Firefox,Germany,216,add_to_cart,Email,0,,2.0,,0,True
+s1691,u304,2025-04-25 10:16:51,Home,Mobile,Firefox,India,170,add_to_cart,Organic,1,,2.0,,1,True
+s1692,u21,2025-04-25 10:33:34,Product,Tablet,Firefox,India,186,click,Paid,0,1.0,,,0,True
+s1693,u73,2025-04-25 10:09:44,Home,Desktop,Firefox,UK,172,click,Social Media,0,1.0,,,0,True
+s1694,u219,2025-04-25 11:10:21,Cart,Desktop,Firefox,India,107,click,Social Media,0,1.0,,,0,True
+s1696,u398,2025-04-25 11:32:54,Home,Desktop,Firefox,Germany,90,add_to_cart,Email,1,,1.0,,1,True
+s1697,u146,2025-04-25 10:46:06,Product,Tablet,Firefox,UK,288,checkout,Organic,0,,,1.0,0,True
+s1699,u93,2025-04-25 11:57:28,Cart,Desktop,Firefox,Germany,244,add_to_cart,Social Media,1,,1.0,,1,True
+s170,u479,2025-04-25 10:19:37,Home,Tablet,Safari,India,88,add_to_cart,Organic,0,,2.0,,0,True
+s1700,u411,2025-04-25 10:56:40,Cart,Mobile,Firefox,UK,162,click,Email,0,2.0,,,0,True
+s1704,u97,2025-04-25 11:48:33,Home,Mobile,Firefox,India,89,click,Organic,1,1.0,,,1,True
+s1706,u463,2025-04-25 10:39:04,Product,Tablet,Firefox,USA,222,click,Email,0,2.0,,,0,True
+s1708,u251,2025-04-25 11:24:03,Payment,Mobile,Chrome,UK,115,add_to_cart,Social Media,0,,1.0,,1,False
+s1709,u78,2025-04-25 10:04:59,Cart,Tablet,Safari,Germany,283,click,Email,0,3.0,,,0,True
+s1710,u87,2025-04-25 11:42:23,Cart,Tablet,Safari,USA,209,click,Paid,1,1.0,,,1,True
+s1711,u117,2025-04-25 11:11:43,Product,Desktop,Chrome,India,137,checkout,Email,0,,,2.0,0,True
+s1714,u360,2025-04-25 10:59:02,Payment,Desktop,Safari,India,281,add_to_cart,Email,1,,1.0,,1,True
+s1715,u284,2025-04-25 10:21:42,Cart,Desktop,Chrome,India,66,add_to_cart,Organic,1,,3.0,,1,True
+s1724,u318,2025-04-25 10:51:52,Cart,Mobile,Firefox,Germany,268,checkout,Paid,0,,,1.0,0,True
+s1725,u153,2025-04-25 10:15:46,Payment,Mobile,Firefox,UK,155,click,Email,0,1.0,,,0,True
+s1726,u257,2025-04-25 11:10:00,Home,Mobile,Chrome,India,90,click,Email,0,1.0,,,0,True
+s1727,u360,2025-04-25 11:14:47,Cart,Tablet,Safari,USA,111,click,Email,0,2.0,,,0,True
+s1728,u126,2025-04-25 11:22:08,Cart,Tablet,Chrome,USA,200,add_to_cart,Organic,1,,1.0,,1,True
+s1729,u274,2025-04-25 10:49:48,Home,Desktop,Firefox,Germany,282,checkout,Organic,0,,,2.0,0,True
+s173,u19,2025-04-25 11:13:22,Cart,Mobile,Safari,USA,193,checkout,Email,0,,,1.0,0,True
+s1732,u285,2025-04-25 10:50:11,Home,Mobile,Safari,USA,266,add_to_cart,Organic,1,,1.0,,1,True
+s1733,u41,2025-04-25 10:34:12,Product,Tablet,Safari,UK,92,checkout,Email,0,,,1.0,0,True
+s1735,u305,2025-04-25 11:33:37,Payment,Mobile,Firefox,Germany,283,checkout,Paid,0,,,1.0,0,True
+s1737,u267,2025-04-25 10:12:25,Cart,Tablet,Safari,Germany,253,checkout,Paid,0,,,1.0,0,True
+s1738,u104,2025-04-25 10:59:57,Payment,Desktop,Chrome,Germany,147,add_to_cart,Paid,1,,1.0,,1,True
+s1739,u465,2025-04-25 10:09:44,Home,Desktop,Firefox,USA,140,add_to_cart,Email,1,,1.0,,1,True
+s174,u271,2025-04-25 11:10:13,Product,Mobile,Chrome,Germany,61,click,Email,0,2.0,,,0,True
+s1740,u457,2025-04-25 10:34:36,Cart,Tablet,Firefox,UK,123,add_to_cart,Social Media,1,,1.0,,1,True
+s1742,u468,2025-04-25 10:22:02,Payment,Mobile,Safari,USA,104,add_to_cart,Paid,1,,2.0,,1,True
+s1743,u167,2025-04-25 10:24:49,Payment,Desktop,Firefox,UK,147,add_to_cart,Email,1,,2.0,,1,True
+s1744,u96,2025-04-25 10:09:21,Home,Tablet,Chrome,Germany,90,checkout,Paid,0,,,2.0,0,True
+s1745,u376,2025-04-25 10:21:43,Product,Desktop,Safari,India,187,checkout,Social Media,0,,,1.0,0,True
+s1746,u236,2025-04-25 11:18:16,Home,Mobile,Safari,Germany,231,click,Paid,0,1.0,,,0,True
+s1747,u336,2025-04-25 11:28:52,Product,Mobile,Firefox,USA,165,add_to_cart,Social Media,0,,1.0,,0,True
+s1749,u481,2025-04-25 10:44:06,Payment,Mobile,Firefox,India,234,checkout,Social Media,0,,,1.0,0,True
+s175,u128,2025-04-25 10:16:10,Payment,Tablet,Safari,USA,258,checkout,Social Media,0,,,2.0,0,True
+s1754,u141,2025-04-25 10:14:35,Home,Desktop,Chrome,UK,245,add_to_cart,Social Media,1,,1.0,,1,True
+s1755,u46,2025-04-25 10:45:34,Cart,Tablet,Safari,USA,141,add_to_cart,Organic,0,,1.0,,0,True
+s1758,u293,2025-04-25 11:42:01,Home,Mobile,Firefox,USA,283,checkout,Social Media,0,,,1.0,0,True
+s176,u375,2025-04-25 11:06:21,Home,Tablet,Chrome,USA,228,add_to_cart,Paid,1,,1.0,,1,True
+s1760,u36,2025-04-25 10:23:32,Product,Tablet,Safari,Germany,106,checkout,Paid,0,,,2.0,0,True
+s1761,u368,2025-04-25 10:31:18,Cart,Desktop,Firefox,UK,165,click,Paid,1,1.0,,,1,True
+s1762,u424,2025-04-25 11:35:54,Product,Tablet,Safari,USA,84,checkout,Social Media,0,,,1.0,0,True
+s1767,u351,2025-04-25 11:54:29,Product,Mobile,Firefox,India,287,add_to_cart,Social Media,1,,1.0,,1,True
+s1769,u342,2025-04-25 10:29:44,Home,Desktop,Safari,Germany,143,click,Paid,0,1.0,,,0,True
+s177,u219,2025-04-25 10:53:30,Product,Tablet,Safari,Germany,217,add_to_cart,Email,1,,1.0,,1,True
+s1771,u163,2025-04-25 10:15:30,Payment,Mobile,Safari,India,175,click,Social Media,1,1.0,,,1,True
+s1773,u204,2025-04-25 10:31:04,Product,Tablet,Safari,USA,181,click,Social Media,0,1.0,,,0,True
+s1774,u85,2025-04-25 11:36:33,Home,Tablet,Safari,UK,203,checkout,Organic,0,,,1.0,0,True
+s1776,u33,2025-04-25 10:55:34,Cart,Tablet,Safari,India,161,checkout,Paid,0,,,1.0,0,True
+s1777,u349,2025-04-25 10:52:06,Cart,Mobile,Chrome,USA,95,click,Email,0,1.0,,,0,True
+s1778,u12,2025-04-25 11:43:34,Payment,Mobile,Firefox,USA,81,click,Organic,0,1.0,,,0,True
+s1780,u254,2025-04-25 10:17:22,Product,Tablet,Chrome,USA,283,checkout,Organic,0,,,1.0,0,True
+s1781,u18,2025-04-25 11:53:50,Payment,Desktop,Safari,USA,78,click,Social Media,0,1.0,,,0,True
+s1783,u106,2025-04-25 10:42:17,Payment,Tablet,Safari,Germany,100,checkout,Email,0,,,1.0,0,True
+s1784,u106,2025-04-25 10:49:22,Product,Tablet,Firefox,Germany,255,checkout,Social Media,0,,,1.0,0,True
+s1786,u345,2025-04-25 10:14:31,Payment,Tablet,Chrome,India,161,click,Organic,1,1.0,,,0,False
+s1787,u278,2025-04-25 10:04:54,Home,Desktop,Safari,UK,118,checkout,Organic,0,,,2.0,0,True
+s1788,u129,2025-04-25 10:07:07,Payment,Mobile,Safari,India,242,checkout,Organic,0,,,1.0,0,True
+s179,u455,2025-04-25 10:14:31,Product,Tablet,Safari,India,70,checkout,Paid,0,,,1.0,0,True
+s1793,u54,2025-04-25 10:37:00,Payment,Tablet,Firefox,UK,267,checkout,Organic,0,,,1.0,0,True
+s1794,u242,2025-04-25 10:02:09,Cart,Tablet,Safari,UK,71,click,Paid,0,2.0,,,0,True
+s1796,u361,2025-04-25 10:40:38,Cart,Tablet,Safari,Germany,253,checkout,Social Media,0,,,1.0,0,True
+s1797,u449,2025-04-25 11:33:11,Home,Tablet,Safari,India,249,click,Organic,0,1.0,,,0,True
+s1798,u434,2025-04-25 10:57:40,Home,Tablet,Chrome,India,157,click,Organic,0,2.0,,,0,True
+s1799,u355,2025-04-25 10:18:29,Cart,Desktop,Chrome,UK,152,add_to_cart,Email,1,,1.0,,1,True
+s180,u288,2025-04-25 10:35:03,Home,Desktop,Chrome,UK,153,checkout,Paid,0,,,1.0,0,True
+s1802,u250,2025-04-25 10:11:01,Home,Desktop,Chrome,India,240,checkout,Email,0,,,1.0,0,True
+s1803,u469,2025-04-25 10:16:15,Payment,Mobile,Firefox,Germany,173,add_to_cart,Organic,1,,1.0,,1,True
+s1805,u10,2025-04-25 11:25:43,Product,Tablet,Firefox,USA,229,checkout,Social Media,0,,,1.0,0,True
+s1806,u194,2025-04-25 10:47:57,Payment,Desktop,Firefox,USA,101,add_to_cart,Organic,1,,1.0,,1,True
+s1807,u473,2025-04-25 10:57:43,Cart,Desktop,Safari,UK,164,checkout,Organic,0,,,1.0,0,True
+s1809,u54,2025-04-25 10:22:46,Product,Tablet,Firefox,UK,228,click,Social Media,0,1.0,,,0,True
+s1810,u214,2025-04-25 11:02:53,Payment,Mobile,Firefox,Germany,153,add_to_cart,Email,0,,1.0,,1,False
+s1813,u321,2025-04-25 10:12:44,Product,Desktop,Safari,USA,256,checkout,Paid,0,,,1.0,0,True
+s1814,u218,2025-04-25 11:07:36,Product,Tablet,Safari,Germany,95,checkout,Social Media,0,,,1.0,0,True
+s1816,u190,2025-04-25 10:09:24,Product,Desktop,Safari,UK,233,add_to_cart,Paid,1,,1.0,,1,True
+s1818,u127,2025-04-25 10:58:22,Payment,Desktop,Safari,Germany,244,add_to_cart,Social Media,1,,1.0,,1,True
+s1819,u170,2025-04-25 10:53:23,Payment,Mobile,Firefox,USA,70,checkout,Email,0,,,1.0,0,True
+s182,u4,2025-04-25 10:55:54,Cart,Mobile,Chrome,Germany,241,checkout,Paid,0,,,1.0,0,True
+s1822,u222,2025-04-25 11:40:17,Cart,Tablet,Firefox,India,83,click,Organic,0,1.0,,,0,True
+s1824,u370,2025-04-25 10:25:25,Payment,Mobile,Chrome,India,170,add_to_cart,Paid,1,,1.0,,1,True
+s1826,u450,2025-04-25 11:43:40,Cart,Mobile,Firefox,India,293,add_to_cart,Organic,1,,1.0,,1,True
+s1827,u89,2025-04-25 10:30:05,Cart,Desktop,Chrome,USA,231,add_to_cart,Social Media,0,,1.0,,0,True
+s1828,u474,2025-04-25 10:05:14,Payment,Desktop,Safari,UK,108,checkout,Organic,0,,,1.0,0,True
+s1829,u166,2025-04-25 10:35:12,Payment,Desktop,Chrome,USA,121,checkout,Paid,0,,,2.0,0,True
+s183,u299,2025-04-25 10:01:06,Payment,Desktop,Firefox,India,154,checkout,Organic,0,,,2.0,0,True
+s1830,u435,2025-04-25 11:26:06,Cart,Mobile,Firefox,UK,203,checkout,Organic,0,,,1.0,0,True
+s1835,u274,2025-04-25 11:12:01,Home,Mobile,Safari,India,77,add_to_cart,Organic,1,,1.0,,1,True
+s1836,u78,2025-04-25 11:56:31,Home,Tablet,Chrome,Germany,264,add_to_cart,Organic,1,,1.0,,1,True
+s1837,u255,2025-04-25 10:20:19,Home,Desktop,Safari,Germany,128,click,Email,1,1.0,,,1,True
+s1838,u191,2025-04-25 10:02:45,Cart,Mobile,Firefox,UK,275,add_to_cart,Organic,1,,1.0,,1,True
+s1839,u299,2025-04-25 10:54:31,Cart,Desktop,Chrome,Germany,83,click,Organic,0,1.0,,,0,True
+s1840,u334,2025-04-25 10:26:17,Cart,Tablet,Chrome,India,102,checkout,Organic,0,,,1.0,0,True
+s1841,u412,2025-04-25 11:03:31,Cart,Tablet,Safari,USA,78,add_to_cart,Email,1,,1.0,,1,True
+s1843,u234,2025-04-25 10:19:21,Home,Tablet,Firefox,Germany,145,click,Paid,0,1.0,,,0,True
+s1844,u474,2025-04-25 10:32:02,Cart,Tablet,Firefox,India,237,click,Email,1,1.0,,,1,True
+s1845,u307,2025-04-25 10:38:04,Cart,Mobile,Safari,India,230,checkout,Email,0,,,1.0,0,True
+s1846,u268,2025-04-25 10:57:30,Payment,Mobile,Firefox,USA,244,add_to_cart,Organic,1,,1.0,,1,True
+s1847,u330,2025-04-25 10:07:42,Payment,Mobile,Chrome,UK,189,click,Paid,1,1.0,,,1,True
+s1848,u447,2025-04-25 10:55:48,Payment,Tablet,Safari,India,282,checkout,Paid,0,,,1.0,0,True
+s1849,u295,2025-04-25 10:07:53,Cart,Mobile,Firefox,UK,244,checkout,Email,0,,,1.0,0,True
+s185,u480,2025-04-25 11:52:19,Product,Mobile,Chrome,USA,294,add_to_cart,Email,1,,1.0,,1,True
+s1851,u351,2025-04-25 11:22:23,Product,Mobile,Safari,India,273,add_to_cart,Paid,0,,1.0,,0,True
+s1852,u217,2025-04-25 10:48:22,Product,Mobile,Safari,USA,242,add_to_cart,Organic,1,,1.0,,1,True
+s1853,u201,2025-04-25 11:18:27,Home,Tablet,Safari,Germany,182,add_to_cart,Social Media,1,,1.0,,1,True
+s1854,u257,2025-04-25 10:21:02,Product,Mobile,Firefox,UK,258,add_to_cart,Paid,1,,1.0,,1,True
+s1855,u301,2025-04-25 11:38:35,Cart,Tablet,Chrome,Germany,166,checkout,Organic,0,,,1.0,0,True
+s1856,u398,2025-04-25 10:47:42,Cart,Tablet,Safari,USA,120,click,Paid,0,1.0,,,0,True
+s1857,u19,2025-04-25 11:15:18,Cart,Tablet,Safari,Germany,227,click,Email,0,1.0,,,0,True
+s1858,u353,2025-04-25 11:28:02,Product,Desktop,Chrome,UK,186,click,Email,0,1.0,,,0,True
+s1859,u128,2025-04-25 10:50:28,Payment,Desktop,Chrome,Germany,94,add_to_cart,Social Media,1,,1.0,,1,True
+s186,u166,2025-04-25 10:17:24,Product,Mobile,Firefox,UK,186,add_to_cart,Social Media,1,,2.0,,1,True
+s1861,u96,2025-04-25 10:37:32,Cart,Mobile,Chrome,India,217,checkout,Paid,0,,,1.0,0,True
+s1862,u431,2025-04-25 10:36:12,Cart,Desktop,Chrome,UK,67,add_to_cart,Organic,1,,2.0,,1,True
+s1863,u177,2025-04-25 10:01:04,Cart,Tablet,Safari,USA,239,add_to_cart,Social Media,1,,1.0,,1,True
+s1865,u368,2025-04-25 11:41:26,Payment,Tablet,Safari,Germany,266,click,Paid,0,1.0,,,0,True
+s1866,u125,2025-04-25 10:44:52,Product,Mobile,Chrome,Germany,140,checkout,Organic,0,,,2.0,0,True
+s1870,u263,2025-04-25 10:50:59,Home,Tablet,Firefox,India,189,add_to_cart,Social Media,0,,2.0,,0,True
+s1871,u231,2025-04-25 11:31:43,Home,Tablet,Firefox,India,65,click,Organic,0,1.0,,,0,True
+s1872,u423,2025-04-25 11:05:47,Cart,Tablet,Firefox,India,179,click,Paid,0,1.0,,,0,True
+s1873,u370,2025-04-25 10:12:20,Payment,Mobile,Safari,Germany,223,click,Social Media,0,1.0,,,1,False
+s1874,u186,2025-04-25 11:29:12,Payment,Tablet,Chrome,Germany,261,add_to_cart,Paid,1,,1.0,,1,True
+s1876,u130,2025-04-25 11:08:38,Home,Tablet,Firefox,India,225,add_to_cart,Social Media,1,,1.0,,1,True
+s1877,u143,2025-04-25 10:24:46,Payment,Tablet,Firefox,India,180,add_to_cart,Social Media,1,,1.0,,1,True
+s1879,u417,2025-04-25 10:10:14,Home,Desktop,Chrome,Germany,267,click,Organic,0,1.0,,,0,True
+s188,u383,2025-04-25 11:12:25,Product,Mobile,Firefox,Germany,147,click,Email,0,1.0,,,0,True
+s1880,u429,2025-04-25 10:54:52,Home,Desktop,Chrome,USA,219,checkout,Email,0,,,1.0,0,True
+s1881,u382,2025-04-25 10:11:04,Product,Desktop,Safari,India,60,add_to_cart,Paid,1,,1.0,,1,True
+s1882,u315,2025-04-25 11:20:34,Home,Tablet,Chrome,UK,90,click,Email,0,2.0,,,0,True
+s1883,u326,2025-04-25 11:41:36,Home,Mobile,Chrome,India,88,click,Paid,0,1.0,,,0,True
+s1884,u211,2025-04-25 11:24:06,Payment,Desktop,Chrome,India,95,click,Social Media,0,1.0,,,0,True
+s1885,u442,2025-04-25 11:58:42,Home,Mobile,Chrome,UK,298,add_to_cart,Paid,1,,1.0,,1,True
+s1886,u259,2025-04-25 11:56:13,Payment,Mobile,Safari,USA,172,checkout,Organic,0,,,1.0,0,True
+s1888,u417,2025-04-25 10:49:20,Home,Tablet,Safari,USA,126,checkout,Social Media,0,,,2.0,0,True
+s1889,u231,2025-04-25 11:55:39,Cart,Desktop,Safari,USA,73,add_to_cart,Social Media,1,,1.0,,1,True
+s1891,u444,2025-04-25 11:45:57,Product,Mobile,Safari,Germany,136,checkout,Paid,0,,,1.0,0,True
+s1892,u202,2025-04-25 10:09:18,Payment,Mobile,Firefox,USA,207,checkout,Email,0,,,2.0,0,True
+s1893,u149,2025-04-25 10:00:38,Product,Tablet,Firefox,USA,159,click,Email,0,2.0,,,0,True
+s1895,u37,2025-04-25 10:05:02,Product,Mobile,Safari,India,180,checkout,Organic,0,,,1.0,0,True
+s1897,u221,2025-04-25 10:38:37,Cart,Tablet,Firefox,UK,171,click,Email,0,1.0,,,0,True
+s1898,u196,2025-04-25 10:52:54,Payment,Tablet,Firefox,India,63,checkout,Email,0,,,1.0,0,True
+s19,u239,2025-04-25 10:05:03,Cart,Mobile,Safari,USA,164,click,Organic,0,1.0,,,0,True
+s1900,u313,2025-04-25 10:28:42,Product,Mobile,Chrome,USA,256,add_to_cart,Paid,1,,1.0,,1,True
+s1901,u258,2025-04-25 10:14:29,Cart,Tablet,Firefox,India,132,add_to_cart,Social Media,1,,1.0,,1,True
+s1902,u172,2025-04-25 10:38:51,Payment,Tablet,Safari,Germany,287,click,Social Media,0,1.0,,,0,True
+s1903,u40,2025-04-25 10:40:51,Product,Tablet,Chrome,Germany,233,checkout,Email,0,,,1.0,0,True
+s1905,u1,2025-04-25 10:41:25,Payment,Mobile,Safari,USA,84,click,Email,0,2.0,,,0,True
+s1906,u445,2025-04-25 10:16:27,Product,Tablet,Safari,India,222,checkout,Social Media,0,,,1.0,0,True
+s1907,u497,2025-04-25 11:43:42,Home,Desktop,Firefox,USA,239,checkout,Organic,0,,,2.0,0,True
+s1908,u29,2025-04-25 10:03:35,Product,Tablet,Safari,Germany,234,checkout,Organic,0,,,1.0,0,True
+s1909,u340,2025-04-25 10:14:08,Product,Mobile,Chrome,India,250,checkout,Paid,0,,,1.0,0,True
+s191,u247,2025-04-25 11:30:01,Product,Tablet,Safari,India,289,checkout,Social Media,0,,,1.0,0,True
+s1911,u182,2025-04-25 10:33:57,Payment,Mobile,Firefox,India,288,add_to_cart,Email,1,,1.0,,1,True
+s1912,u181,2025-04-25 10:43:01,Cart,Mobile,Firefox,Germany,271,checkout,Email,0,,,1.0,0,True
+s1915,u458,2025-04-25 10:09:25,Payment,Desktop,Firefox,Germany,106,click,Social Media,0,1.0,,,0,True
+s1916,u217,2025-04-25 10:29:45,Product,Desktop,Chrome,USA,130,add_to_cart,Social Media,1,,1.0,,1,True
+s1918,u99,2025-04-25 11:00:41,Home,Desktop,Safari,India,254,add_to_cart,Email,1,,1.0,,1,True
+s192,u208,2025-04-25 10:51:46,Payment,Tablet,Firefox,India,223,click,Paid,0,2.0,,,0,True
+s1920,u364,2025-04-25 10:28:38,Payment,Tablet,Chrome,UK,100,add_to_cart,Paid,1,,1.0,,1,True
+s1922,u105,2025-04-25 10:17:08,Home,Desktop,Safari,USA,120,checkout,Organic,0,,,1.0,0,True
+s1923,u220,2025-04-25 10:16:29,Product,Desktop,Chrome,UK,142,click,Organic,0,1.0,,,0,True
+s1924,u15,2025-04-25 10:15:44,Cart,Desktop,Safari,UK,69,click,Social Media,0,1.0,,,0,True
+s1925,u261,2025-04-25 10:41:02,Payment,Tablet,Firefox,India,211,add_to_cart,Email,0,,2.0,,0,True
+s1926,u7,2025-04-25 10:04:55,Home,Tablet,Chrome,Germany,262,add_to_cart,Organic,0,,1.0,,0,True
+s1929,u486,2025-04-25 11:17:58,Payment,Tablet,Firefox,USA,272,add_to_cart,Email,1,,1.0,,1,True
+s1930,u217,2025-04-25 10:22:55,Product,Desktop,Chrome,India,77,click,Email,1,1.0,,,1,True
+s1932,u178,2025-04-25 11:38:11,Cart,Tablet,Chrome,Germany,132,add_to_cart,Organic,1,,1.0,,1,True
+s1933,u16,2025-04-25 11:00:25,Product,Desktop,Safari,India,81,add_to_cart,Email,1,,1.0,,1,True
+s1934,u349,2025-04-25 10:20:07,Cart,Desktop,Safari,USA,63,click,Organic,0,1.0,,,0,True
+s1935,u396,2025-04-25 10:13:13,Product,Mobile,Firefox,UK,72,checkout,Social Media,0,,,1.0,0,True
+s1936,u48,2025-04-25 10:22:32,Home,Desktop,Safari,UK,201,add_to_cart,Organic,1,,1.0,,1,True
+s1937,u335,2025-04-25 10:35:08,Product,Mobile,Chrome,UK,128,click,Social Media,0,2.0,,,0,True
+s1938,u20,2025-04-25 10:41:33,Payment,Desktop,Chrome,USA,287,checkout,Paid,0,,,2.0,0,True
+s1939,u467,2025-04-25 10:30:18,Payment,Mobile,Chrome,Germany,73,add_to_cart,Email,1,,1.0,,1,True
+s194,u237,2025-04-25 10:13:54,Product,Desktop,Chrome,India,272,click,Paid,0,2.0,,,0,True
+s1940,u46,2025-04-25 10:41:55,Product,Tablet,Firefox,India,196,click,Organic,0,1.0,,,0,True
+s1941,u157,2025-04-25 10:55:30,Cart,Desktop,Safari,India,79,checkout,Paid,0,,,1.0,0,True
+s1942,u465,2025-04-25 11:50:51,Payment,Desktop,Chrome,USA,246,click,Paid,0,1.0,,,0,True
+s1944,u86,2025-04-25 10:28:55,Product,Desktop,Chrome,Germany,80,checkout,Social Media,0,,,1.0,0,True
+s1946,u387,2025-04-25 11:00:25,Payment,Tablet,Firefox,USA,250,add_to_cart,Social Media,1,,1.0,,1,True
+s1947,u370,2025-04-25 10:02:52,Payment,Desktop,Safari,UK,293,add_to_cart,Organic,0,,1.0,,0,True
+s1948,u172,2025-04-25 10:00:11,Payment,Tablet,Safari,UK,86,click,Paid,1,1.0,,,1,True
+s1949,u418,2025-04-25 10:26:04,Home,Desktop,Chrome,UK,90,click,Paid,0,2.0,,,0,True
+s195,u9,2025-04-25 10:53:25,Payment,Desktop,Firefox,UK,110,click,Social Media,0,1.0,,,0,True
+s1950,u498,2025-04-25 10:06:16,Payment,Tablet,Safari,Germany,123,add_to_cart,Social Media,1,,1.0,,1,True
+s1951,u27,2025-04-25 10:57:42,Payment,Mobile,Chrome,UK,88,add_to_cart,Paid,0,,1.0,,0,True
+s1952,u16,2025-04-25 10:19:29,Payment,Desktop,Chrome,India,120,checkout,Email,0,,,2.0,0,True
+s1953,u79,2025-04-25 11:33:46,Payment,Desktop,Chrome,India,83,add_to_cart,Organic,1,,1.0,,1,True
+s1954,u296,2025-04-25 10:54:42,Home,Desktop,Safari,USA,296,add_to_cart,Paid,1,,1.0,,1,True
+s1955,u446,2025-04-25 10:18:47,Cart,Mobile,Firefox,Germany,64,checkout,Email,0,,,1.0,0,True
+s1956,u36,2025-04-25 10:44:42,Cart,Desktop,Safari,USA,111,add_to_cart,Paid,1,,1.0,,1,True
+s1957,u40,2025-04-25 10:30:39,Payment,Tablet,Safari,India,276,checkout,Organic,0,,,1.0,0,True
+s1958,u328,2025-04-25 11:53:54,Payment,Desktop,Safari,UK,166,click,Social Media,0,1.0,,,0,True
+s196,u288,2025-04-25 10:23:06,Product,Mobile,Safari,USA,81,click,Social Media,0,1.0,,,0,True
+s1960,u89,2025-04-25 11:02:45,Cart,Tablet,Firefox,UK,216,add_to_cart,Paid,0,,1.0,,0,True
+s1961,u487,2025-04-25 10:01:31,Product,Desktop,Chrome,India,206,checkout,Social Media,0,,,1.0,0,True
+s1962,u69,2025-04-25 10:15:02,Home,Mobile,Firefox,USA,135,add_to_cart,Paid,0,,1.0,,0,True
+s1963,u220,2025-04-25 10:27:37,Product,Tablet,Firefox,USA,283,add_to_cart,Organic,1,,1.0,,1,True
+s1964,u21,2025-04-25 11:33:11,Cart,Mobile,Chrome,Germany,125,checkout,Email,0,,,2.0,0,True
+s1965,u87,2025-04-25 10:44:04,Home,Desktop,Chrome,UK,292,checkout,Email,0,,,2.0,0,True
+s1966,u204,2025-04-25 10:00:01,Home,Mobile,Safari,India,192,click,Email,0,2.0,,,0,True
+s1968,u446,2025-04-25 11:04:47,Cart,Mobile,Chrome,UK,251,checkout,Organic,0,,,1.0,0,True
+s197,u160,2025-04-25 10:48:29,Product,Tablet,Firefox,UK,187,click,Paid,1,1.0,,,1,True
+s1971,u486,2025-04-25 10:57:53,Product,Mobile,Firefox,India,163,click,Paid,1,1.0,,,0,False
+s1973,u496,2025-04-25 10:53:02,Cart,Desktop,Firefox,India,170,add_to_cart,Paid,0,,1.0,,0,True
+s1974,u271,2025-04-25 10:01:43,Home,Mobile,Firefox,UK,67,checkout,Email,0,,,2.0,0,True
+s1976,u11,2025-04-25 11:57:04,Payment,Mobile,Firefox,USA,165,click,Social Media,0,1.0,,,0,True
+s1978,u275,2025-04-25 11:33:48,Payment,Tablet,Chrome,Germany,136,click,Social Media,0,1.0,,,0,True
+s1980,u9,2025-04-25 10:05:03,Cart,Desktop,Firefox,India,163,click,Paid,0,1.0,,,0,True
+s1982,u336,2025-04-25 11:35:21,Payment,Desktop,Safari,India,139,checkout,Social Media,0,,,1.0,0,True
+s1983,u214,2025-04-25 11:16:05,Product,Mobile,Chrome,UK,112,add_to_cart,Organic,1,,1.0,,1,True
+s1987,u396,2025-04-25 10:55:11,Home,Tablet,Safari,Germany,165,click,Paid,1,1.0,,,1,True
+s1988,u409,2025-04-25 10:07:38,Payment,Tablet,Safari,USA,122,add_to_cart,Paid,1,,1.0,,1,True
+s1989,u388,2025-04-25 11:20:31,Product,Tablet,Chrome,Germany,269,checkout,Social Media,0,,,1.0,0,True
+s199,u109,2025-04-25 11:11:18,Home,Mobile,Safari,UK,298,add_to_cart,Social Media,1,,3.0,,1,True
+s1991,u254,2025-04-25 10:08:13,Product,Desktop,Safari,USA,179,add_to_cart,Paid,0,,2.0,,0,True
+s1992,u445,2025-04-25 10:31:07,Product,Mobile,Safari,Germany,258,add_to_cart,Email,1,,1.0,,1,True
+s1993,u473,2025-04-25 10:51:40,Home,Tablet,Firefox,UK,207,click,Organic,0,1.0,,,0,True
+s1996,u136,2025-04-25 10:10:30,Product,Tablet,Chrome,UK,181,checkout,Organic,0,,,2.0,0,True
+s1997,u55,2025-04-25 11:46:43,Home,Tablet,Chrome,India,102,checkout,Organic,0,,,1.0,0,True
+s1998,u209,2025-04-25 11:29:01,Cart,Mobile,Firefox,India,101,add_to_cart,Organic,1,,1.0,,1,True
+s1999,u177,2025-04-25 10:13:14,Product,Tablet,Firefox,USA,288,add_to_cart,Paid,0,,1.0,,1,False
+s2,u148,2025-04-25 11:02:54,Payment,Tablet,Firefox,Germany,287,checkout,Social Media,0,,,1.0,0,True
+s20,u371,2025-04-25 10:01:50,Cart,Tablet,Chrome,USA,209,checkout,Social Media,0,,,1.0,0,True
+s200,u413,2025-04-25 10:02:02,Product,Mobile,Safari,India,187,click,Social Media,0,2.0,,,0,True
+s2000,u144,2025-04-25 10:43:57,Payment,Desktop,Chrome,UK,256,add_to_cart,Organic,1,,4.0,,1,True
+s201,u76,2025-04-25 11:37:09,Payment,Mobile,Chrome,India,75,add_to_cart,Paid,1,,1.0,,1,True
+s202,u412,2025-04-25 11:38:38,Payment,Mobile,Chrome,UK,140,add_to_cart,Organic,1,,1.0,,1,True
+s205,u146,2025-04-25 11:24:35,Home,Desktop,Firefox,Germany,175,add_to_cart,Email,0,,1.0,,0,True
+s206,u427,2025-04-25 10:26:30,Cart,Desktop,Firefox,USA,137,click,Paid,1,1.0,,,0,False
+s207,u43,2025-04-25 10:11:14,Home,Desktop,Safari,Germany,186,click,Paid,0,1.0,,,0,True
+s208,u372,2025-04-25 10:31:32,Payment,Desktop,Chrome,USA,205,checkout,Paid,0,,,2.0,0,True
+s209,u365,2025-04-25 11:13:12,Product,Mobile,Chrome,UK,221,checkout,Social Media,0,,,2.0,0,True
+s21,u51,2025-04-25 10:51:29,Product,Mobile,Chrome,India,104,checkout,Email,0,,,1.0,0,True
+s210,u377,2025-04-25 11:53:19,Product,Mobile,Chrome,Germany,127,add_to_cart,Organic,1,,1.0,,1,True
+s211,u375,2025-04-25 10:29:33,Cart,Desktop,Firefox,India,92,checkout,Social Media,0,,,1.0,0,True
+s212,u18,2025-04-25 10:09:57,Home,Tablet,Safari,UK,258,add_to_cart,Organic,1,,1.0,,1,True
+s213,u296,2025-04-25 11:09:16,Product,Desktop,Safari,Germany,117,click,Email,1,1.0,,,1,True
+s216,u166,2025-04-25 11:57:36,Payment,Desktop,Chrome,India,108,checkout,Email,0,,,1.0,0,True
+s217,u222,2025-04-25 10:49:27,Payment,Tablet,Chrome,Germany,105,checkout,Email,0,,,1.0,0,True
+s219,u422,2025-04-25 10:20:12,Product,Desktop,Chrome,Germany,291,click,Organic,0,1.0,,,0,True
+s220,u249,2025-04-25 10:26:09,Home,Desktop,Safari,Germany,228,add_to_cart,Email,1,,2.0,,1,True
+s221,u230,2025-04-25 10:17:13,Product,Tablet,Chrome,UK,257,add_to_cart,Email,0,,1.0,,0,True
+s222,u346,2025-04-25 10:31:55,Payment,Desktop,Safari,UK,294,checkout,Paid,0,,,1.0,0,True
+s223,u225,2025-04-25 11:29:36,Payment,Desktop,Chrome,UK,251,add_to_cart,Organic,1,,1.0,,1,True
+s224,u44,2025-04-25 10:24:36,Home,Mobile,Firefox,USA,162,add_to_cart,Organic,1,,1.0,,1,True
+s226,u138,2025-04-25 10:49:38,Cart,Mobile,Safari,Germany,123,add_to_cart,Organic,1,,1.0,,1,True
+s227,u50,2025-04-25 11:11:26,Home,Desktop,Chrome,USA,283,click,Paid,0,1.0,,,0,True
+s228,u398,2025-04-25 10:39:20,Product,Mobile,Chrome,India,121,add_to_cart,Social Media,1,,1.0,,1,True
+s229,u118,2025-04-25 10:05:11,Payment,Desktop,Chrome,India,121,add_to_cart,Email,0,,1.0,,0,True
+s23,u327,2025-04-25 10:16:00,Cart,Tablet,Chrome,Germany,119,checkout,Social Media,0,,,2.0,0,True
+s230,u418,2025-04-25 10:02:10,Product,Desktop,Chrome,Germany,226,click,Paid,0,2.0,,,0,True
+s232,u68,2025-04-25 11:35:03,Home,Desktop,Chrome,Germany,293,checkout,Social Media,0,,,1.0,0,True
+s234,u206,2025-04-25 10:54:38,Payment,Mobile,Firefox,Germany,264,add_to_cart,Paid,1,,1.0,,1,True
+s235,u8,2025-04-25 11:25:03,Home,Desktop,Safari,UK,200,add_to_cart,Email,1,,1.0,,1,True
+s238,u91,2025-04-25 11:03:27,Cart,Tablet,Chrome,UK,238,add_to_cart,Paid,1,,2.0,,1,True
+s24,u330,2025-04-25 10:21:25,Payment,Mobile,Chrome,India,252,add_to_cart,Email,1,,1.0,,1,True
+s240,u94,2025-04-25 10:50:58,Product,Tablet,Firefox,Germany,212,click,Social Media,0,1.0,,,0,True
+s241,u272,2025-04-25 10:13:03,Cart,Tablet,Safari,USA,178,checkout,Paid,0,,,2.0,0,True
+s242,u191,2025-04-25 10:41:37,Cart,Mobile,Firefox,Germany,67,click,Paid,0,2.0,,,0,True
+s243,u185,2025-04-25 10:11:34,Home,Tablet,Chrome,USA,169,checkout,Email,0,,,1.0,0,True
+s244,u216,2025-04-25 11:06:46,Payment,Tablet,Safari,USA,143,add_to_cart,Social Media,1,,1.0,,1,True
+s248,u288,2025-04-25 10:30:35,Payment,Mobile,Firefox,UK,256,click,Email,0,1.0,,,0,True
+s249,u291,2025-04-25 11:13:05,Cart,Mobile,Safari,UK,162,click,Organic,1,1.0,,,1,True
+s25,u211,2025-04-25 10:13:20,Home,Tablet,Firefox,UK,116,checkout,Email,0,,,3.0,0,True
+s252,u70,2025-04-25 11:56:26,Home,Mobile,Chrome,Germany,82,checkout,Email,0,,,1.0,0,True
+s254,u239,2025-04-25 10:15:03,Product,Mobile,Firefox,UK,202,checkout,Organic,0,,,1.0,0,True
+s255,u158,2025-04-25 11:17:36,Cart,Mobile,Chrome,Germany,178,click,Social Media,0,1.0,,,0,True
+s257,u108,2025-04-25 10:17:46,Home,Mobile,Safari,India,79,click,Social Media,0,1.0,,,0,True
+s258,u250,2025-04-25 10:31:46,Cart,Tablet,Safari,UK,266,add_to_cart,Paid,1,,1.0,,1,True
+s261,u402,2025-04-25 10:13:05,Payment,Desktop,Chrome,India,62,click,Email,0,1.0,,,0,True
+s263,u450,2025-04-25 11:53:11,Product,Desktop,Firefox,India,272,click,Paid,0,1.0,,,0,True
+s264,u481,2025-04-25 11:26:52,Payment,Tablet,Chrome,Germany,291,add_to_cart,Paid,1,,1.0,,1,True
+s265,u275,2025-04-25 10:57:07,Payment,Tablet,Chrome,Germany,291,click,Paid,0,1.0,,,0,True
+s266,u358,2025-04-25 10:44:14,Cart,Tablet,Safari,Germany,77,click,Organic,1,1.0,,,1,True
+s268,u213,2025-04-25 10:07:00,Product,Desktop,Safari,India,135,add_to_cart,Organic,1,,1.0,,1,True
+s27,u344,2025-04-25 10:12:09,Home,Tablet,Safari,Germany,98,click,Organic,0,1.0,,,0,True
+s270,u95,2025-04-25 10:03:34,Cart,Tablet,Safari,USA,212,click,Paid,0,2.0,,,0,True
+s272,u45,2025-04-25 10:25:35,Payment,Mobile,Safari,Germany,86,click,Organic,0,1.0,,,0,True
+s273,u472,2025-04-25 10:52:35,Home,Tablet,Firefox,India,142,click,Social Media,0,1.0,,,0,True
+s274,u23,2025-04-25 10:48:06,Cart,Tablet,Chrome,Germany,238,add_to_cart,Paid,1,,1.0,,1,True
+s275,u452,2025-04-25 10:36:06,Cart,Mobile,Firefox,India,162,click,Paid,0,1.0,,,0,True
+s276,u6,2025-04-25 10:09:47,Home,Desktop,Safari,Germany,228,add_to_cart,Paid,1,,2.0,,1,True
+s278,u444,2025-04-25 11:03:02,Product,Desktop,Firefox,Germany,143,click,Social Media,0,2.0,,,0,True
+s28,u424,2025-04-25 10:48:08,Cart,Tablet,Firefox,Germany,88,add_to_cart,Organic,1,,1.0,,1,True
+s280,u115,2025-04-25 11:32:15,Product,Mobile,Safari,UK,244,click,Social Media,1,1.0,,,1,True
+s282,u215,2025-04-25 10:27:13,Product,Tablet,Safari,India,157,checkout,Email,0,,,1.0,0,True
+s285,u138,2025-04-25 10:41:06,Cart,Mobile,Chrome,India,102,add_to_cart,Email,1,,1.0,,1,True
+s286,u325,2025-04-25 10:41:20,Product,Mobile,Safari,USA,243,add_to_cart,Social Media,1,,1.0,,1,True
+s287,u78,2025-04-25 10:13:57,Product,Tablet,Chrome,India,253,add_to_cart,Email,1,,1.0,,1,True
+s288,u217,2025-04-25 10:25:03,Cart,Mobile,Chrome,India,173,checkout,Organic,0,,,1.0,0,True
+s29,u378,2025-04-25 10:46:01,Cart,Tablet,Safari,USA,104,checkout,Social Media,0,,,1.0,0,True
+s290,u41,2025-04-25 10:33:27,Home,Desktop,Safari,Germany,98,click,Social Media,1,1.0,,,0,False
+s291,u134,2025-04-25 10:15:57,Cart,Desktop,Chrome,Germany,283,add_to_cart,Email,0,,1.0,,0,True
+s292,u149,2025-04-25 11:00:07,Product,Tablet,Safari,UK,71,click,Paid,0,1.0,,,0,True
+s293,u136,2025-04-25 10:19:03,Product,Tablet,Safari,UK,251,checkout,Social Media,0,,,1.0,0,True
+s295,u107,2025-04-25 10:41:24,Payment,Tablet,Firefox,India,298,checkout,Social Media,0,,,1.0,0,True
+s297,u418,2025-04-25 10:40:31,Product,Mobile,Safari,Germany,97,checkout,Email,0,,,1.0,0,True
+s299,u383,2025-04-25 11:30:50,Home,Tablet,Firefox,UK,188,checkout,Organic,0,,,1.0,0,True
+s30,u351,2025-04-25 10:58:38,Home,Mobile,Safari,USA,182,click,Organic,0,2.0,,,0,True
+s300,u342,2025-04-25 10:17:20,Product,Desktop,Firefox,India,204,click,Paid,0,1.0,,,0,True
+s302,u237,2025-04-25 11:59:37,Home,Tablet,Chrome,USA,64,add_to_cart,Paid,1,,1.0,,1,True
+s303,u191,2025-04-25 11:01:13,Product,Tablet,Firefox,India,295,click,Social Media,0,2.0,,,0,True
+s304,u181,2025-04-25 10:38:49,Payment,Desktop,Safari,USA,242,checkout,Email,0,,,1.0,0,True
+s308,u4,2025-04-25 10:46:01,Cart,Desktop,Safari,Germany,171,click,Social Media,0,1.0,,,0,True
+s309,u146,2025-04-25 10:42:28,Payment,Tablet,Firefox,India,126,add_to_cart,Paid,0,,2.0,,0,True
+s310,u226,2025-04-25 10:09:19,Payment,Mobile,Safari,UK,263,add_to_cart,Organic,1,,1.0,,1,True
+s314,u322,2025-04-25 10:21:50,Payment,Tablet,Chrome,Germany,157,checkout,Social Media,0,,,1.0,0,True
+s315,u488,2025-04-25 10:45:05,Payment,Mobile,Chrome,Germany,76,checkout,Social Media,0,,,1.0,0,True
+s317,u437,2025-04-25 10:14:22,Cart,Mobile,Chrome,Germany,278,click,Paid,1,1.0,,,1,True
+s319,u229,2025-04-25 10:31:38,Payment,Mobile,Chrome,Germany,83,add_to_cart,Paid,0,,1.0,,0,True
+s32,u14,2025-04-25 10:20:56,Cart,Tablet,Safari,UK,145,click,Social Media,0,1.0,,,0,True
+s320,u399,2025-04-25 10:14:33,Home,Desktop,Safari,Germany,217,click,Organic,0,1.0,,,0,True
+s321,u260,2025-04-25 10:45:47,Cart,Mobile,Safari,India,240,checkout,Email,0,,,1.0,0,True
+s322,u123,2025-04-25 10:23:43,Home,Desktop,Chrome,Germany,175,checkout,Social Media,0,,,1.0,0,True
+s323,u330,2025-04-25 11:45:57,Home,Mobile,Safari,USA,236,add_to_cart,Organic,1,,1.0,,1,True
+s324,u52,2025-04-25 10:02:02,Cart,Desktop,Chrome,Germany,76,click,Social Media,0,2.0,,,0,True
+s325,u268,2025-04-25 11:41:15,Cart,Desktop,Chrome,India,197,click,Paid,0,1.0,,,0,True
+s326,u216,2025-04-25 11:04:55,Cart,Mobile,Safari,India,107,add_to_cart,Email,1,,1.0,,1,True
+s329,u438,2025-04-25 11:08:21,Product,Tablet,Safari,India,85,checkout,Organic,0,,,1.0,0,True
+s330,u95,2025-04-25 10:30:08,Cart,Desktop,Chrome,USA,231,checkout,Organic,0,,,1.0,0,True
+s332,u464,2025-04-25 10:58:13,Product,Tablet,Chrome,UK,84,add_to_cart,Email,1,,1.0,,1,True
+s333,u492,2025-04-25 10:52:03,Payment,Tablet,Chrome,USA,292,click,Email,0,1.0,,,0,True
+s334,u278,2025-04-25 10:14:32,Home,Desktop,Safari,India,253,add_to_cart,Paid,0,,2.0,,0,True
+s335,u204,2025-04-25 11:33:09,Home,Mobile,Chrome,UK,235,checkout,Organic,0,,,1.0,0,True
+s337,u269,2025-04-25 11:37:37,Payment,Desktop,Firefox,Germany,105,click,Social Media,0,1.0,,,0,True
+s338,u142,2025-04-25 10:15:17,Product,Mobile,Chrome,USA,193,checkout,Organic,0,,,1.0,0,True
+s339,u225,2025-04-25 11:42:29,Payment,Tablet,Firefox,Germany,215,add_to_cart,Paid,1,,1.0,,1,True
+s340,u316,2025-04-25 10:19:00,Product,Desktop,Chrome,UK,196,add_to_cart,Paid,1,,2.0,,1,True
+s342,u62,2025-04-25 10:57:09,Cart,Tablet,Safari,Germany,250,click,Paid,0,1.0,,,0,True
+s343,u484,2025-04-25 11:41:02,Cart,Tablet,Safari,Germany,132,checkout,Email,0,,,2.0,0,True
+s345,u400,2025-04-25 11:02:26,Payment,Tablet,Safari,India,206,click,Email,1,1.0,,,1,True
+s348,u258,2025-04-25 11:07:17,Cart,Mobile,Chrome,India,141,checkout,Social Media,0,,,1.0,0,True
+s349,u455,2025-04-25 10:51:15,Product,Tablet,Chrome,India,146,checkout,Social Media,0,,,1.0,0,True
+s35,u325,2025-04-25 10:49:10,Home,Tablet,Firefox,Germany,119,checkout,Social Media,0,,,1.0,0,True
+s350,u430,2025-04-25 10:02:27,Home,Desktop,Firefox,India,196,checkout,Social Media,0,,,2.0,0,True
+s351,u115,2025-04-25 10:06:13,Product,Mobile,Chrome,USA,286,add_to_cart,Paid,1,,1.0,,1,True
+s352,u336,2025-04-25 11:05:08,Payment,Tablet,Firefox,Germany,137,checkout,Email,0,,,1.0,0,True
+s355,u102,2025-04-25 11:33:48,Cart,Mobile,Chrome,UK,102,click,Social Media,0,1.0,,,0,True
+s358,u424,2025-04-25 11:57:20,Home,Desktop,Firefox,Germany,89,checkout,Paid,0,,,1.0,0,True
+s359,u499,2025-04-25 10:01:48,Home,Tablet,Chrome,UK,241,add_to_cart,Social Media,1,,1.0,,1,True
+s36,u341,2025-04-25 10:50:51,Cart,Mobile,Safari,India,140,add_to_cart,Organic,1,,1.0,,1,True
+s362,u192,2025-04-25 10:25:26,Product,Desktop,Firefox,USA,188,click,Social Media,0,1.0,,,0,True
+s364,u290,2025-04-25 10:01:15,Product,Tablet,Chrome,USA,237,add_to_cart,Organic,1,,1.0,,1,True
+s365,u123,2025-04-25 11:45:15,Payment,Desktop,Chrome,USA,101,add_to_cart,Social Media,1,,1.0,,1,True
+s366,u101,2025-04-25 10:02:56,Product,Mobile,Chrome,India,272,checkout,Paid,0,,,1.0,0,True
+s367,u190,2025-04-25 11:16:20,Payment,Mobile,Firefox,UK,258,checkout,Social Media,0,,,1.0,0,True
+s368,u115,2025-04-25 11:49:49,Home,Mobile,Chrome,Germany,281,add_to_cart,Email,0,,1.0,,0,True
+s369,u399,2025-04-25 11:19:55,Product,Mobile,Firefox,UK,175,click,Paid,0,1.0,,,0,True
+s37,u316,2025-04-25 10:27:15,Home,Desktop,Firefox,Germany,194,add_to_cart,Paid,1,,2.0,,1,True
+s371,u428,2025-04-25 10:48:26,Payment,Mobile,Chrome,USA,164,click,Email,0,1.0,,,0,True
+s372,u14,2025-04-25 11:37:23,Home,Mobile,Firefox,India,141,click,Social Media,0,1.0,,,0,True
+s373,u21,2025-04-25 10:00:04,Home,Tablet,Safari,UK,114,add_to_cart,Social Media,1,,2.0,,1,True
+s374,u499,2025-04-25 10:23:56,Product,Desktop,Chrome,India,70,add_to_cart,Paid,0,,1.0,,0,True
+s376,u227,2025-04-25 11:25:59,Home,Desktop,Firefox,India,109,click,Paid,0,1.0,,,0,True
+s377,u426,2025-04-25 10:07:20,Home,Mobile,Firefox,UK,102,click,Email,0,1.0,,,0,True
+s379,u405,2025-04-25 11:58:59,Cart,Tablet,Firefox,India,280,checkout,Organic,0,,,1.0,0,True
+s38,u364,2025-04-25 10:44:19,Product,Desktop,Safari,UK,246,checkout,Social Media,0,,,1.0,0,True
+s381,u349,2025-04-25 11:19:59,Payment,Desktop,Safari,UK,264,click,Organic,0,1.0,,,0,True
+s384,u281,2025-04-25 10:35:53,Product,Mobile,Firefox,UK,153,click,Social Media,0,1.0,,,0,True
+s385,u165,2025-04-25 10:02:38,Product,Desktop,Safari,India,107,click,Email,1,1.0,,,0,False
+s386,u244,2025-04-25 10:14:49,Cart,Tablet,Firefox,UK,83,click,Organic,0,2.0,,,0,True
+s389,u391,2025-04-25 10:21:45,Payment,Tablet,Firefox,Germany,285,add_to_cart,Social Media,1,,2.0,,1,True
+s39,u5,2025-04-25 10:30:45,Cart,Mobile,Chrome,UK,279,click,Email,0,1.0,,,0,True
+s391,u362,2025-04-25 11:22:28,Product,Tablet,Safari,UK,62,add_to_cart,Email,1,,1.0,,1,True
+s392,u108,2025-04-25 10:12:23,Cart,Mobile,Firefox,India,176,click,Organic,0,1.0,,,0,True
+s393,u47,2025-04-25 11:51:26,Cart,Tablet,Chrome,USA,186,add_to_cart,Organic,1,,1.0,,1,True
+s394,u263,2025-04-25 10:38:15,Home,Mobile,Firefox,USA,73,checkout,Paid,0,,,1.0,0,True
+s396,u361,2025-04-25 11:00:51,Home,Desktop,Safari,UK,137,checkout,Social Media,0,,,1.0,0,True
+s398,u426,2025-04-25 11:22:41,Cart,Mobile,Firefox,India,137,add_to_cart,Social Media,1,,1.0,,1,True
+s399,u139,2025-04-25 10:14:48,Home,Desktop,Firefox,UK,67,click,Email,0,1.0,,,0,True
+s4,u61,2025-04-25 10:03:16,Payment,Tablet,Chrome,USA,264,checkout,Social Media,0,,,1.0,0,True
+s40,u58,2025-04-25 10:49:33,Cart,Desktop,Chrome,USA,284,checkout,Organic,0,,,2.0,0,True
+s401,u130,2025-04-25 11:07:03,Payment,Tablet,Firefox,USA,111,checkout,Paid,0,,,1.0,0,True
+s402,u227,2025-04-25 10:49:17,Product,Desktop,Safari,UK,144,click,Email,1,1.0,,,1,True
+s403,u245,2025-04-25 10:15:53,Payment,Desktop,Firefox,USA,85,checkout,Paid,0,,,1.0,0,True
+s404,u26,2025-04-25 11:49:35,Payment,Mobile,Chrome,UK,167,click,Organic,0,1.0,,,0,True
+s406,u146,2025-04-25 10:23:46,Product,Mobile,Safari,USA,146,checkout,Paid,0,,,2.0,0,True
+s407,u135,2025-04-25 11:35:44,Product,Desktop,Firefox,Germany,213,add_to_cart,Paid,1,,1.0,,1,True
+s409,u96,2025-04-25 11:53:38,Payment,Mobile,Safari,Germany,70,add_to_cart,Email,1,,1.0,,1,True
+s410,u213,2025-04-25 10:54:55,Cart,Tablet,Safari,Germany,231,checkout,Paid,0,,,1.0,0,True
+s411,u305,2025-04-25 11:55:14,Payment,Desktop,Chrome,Germany,245,add_to_cart,Email,1,,1.0,,1,True
+s412,u68,2025-04-25 11:47:23,Cart,Tablet,Safari,UK,272,click,Email,0,1.0,,,0,True
+s414,u82,2025-04-25 10:37:14,Product,Desktop,Firefox,UK,228,checkout,Paid,0,,,2.0,0,True
+s415,u72,2025-04-25 11:05:35,Payment,Desktop,Firefox,UK,182,click,Paid,1,1.0,,,1,True
+s416,u52,2025-04-25 10:36:04,Payment,Mobile,Firefox,Germany,83,click,Social Media,0,1.0,,,0,True
+s417,u18,2025-04-25 11:50:35,Product,Desktop,Firefox,Germany,205,checkout,Organic,0,,,1.0,0,True
+s418,u386,2025-04-25 11:13:53,Home,Mobile,Firefox,India,217,checkout,Paid,0,,,1.0,0,True
+s420,u95,2025-04-25 10:15:23,Home,Mobile,Chrome,USA,111,checkout,Email,0,,,1.0,0,True
+s421,u205,2025-04-25 10:25:09,Home,Mobile,Chrome,India,151,click,Organic,0,2.0,,,0,True
+s422,u143,2025-04-25 11:42:43,Home,Tablet,Chrome,USA,153,add_to_cart,Paid,1,,1.0,,1,True
+s424,u335,2025-04-25 10:18:55,Product,Desktop,Firefox,USA,170,click,Paid,0,1.0,,,0,True
+s425,u113,2025-04-25 10:27:42,Payment,Desktop,Firefox,USA,138,add_to_cart,Social Media,1,,1.0,,1,True
+s426,u117,2025-04-25 10:33:18,Payment,Mobile,Chrome,India,141,checkout,Organic,0,,,1.0,0,True
+s428,u118,2025-04-25 11:19:33,Payment,Desktop,Firefox,India,208,add_to_cart,Paid,1,,1.0,,1,True
+s429,u373,2025-04-25 10:11:06,Payment,Tablet,Safari,India,102,checkout,Social Media,0,,,1.0,0,True
+s43,u495,2025-04-25 10:44:20,Product,Tablet,Firefox,UK,82,add_to_cart,Organic,1,,1.0,,1,True
+s430,u225,2025-04-25 11:01:26,Home,Mobile,Chrome,USA,138,checkout,Organic,0,,,1.0,0,True
+s431,u136,2025-04-25 10:13:15,Cart,Tablet,Safari,India,177,checkout,Social Media,0,,,1.0,0,True
+s432,u303,2025-04-25 10:22:00,Payment,Desktop,Chrome,India,92,checkout,Paid,0,,,1.0,0,True
+s433,u468,2025-04-25 11:17:26,Cart,Desktop,Safari,Germany,161,checkout,Social Media,0,,,1.0,0,True
+s434,u115,2025-04-25 11:46:04,Payment,Tablet,Firefox,India,110,add_to_cart,Organic,1,,1.0,,1,True
+s437,u158,2025-04-25 11:08:30,Cart,Mobile,Safari,Germany,86,checkout,Email,0,,,1.0,0,True
+s438,u245,2025-04-25 10:10:38,Product,Tablet,Chrome,Germany,62,click,Email,1,2.0,,,1,True
+s439,u277,2025-04-25 10:18:03,Payment,Desktop,Firefox,Germany,108,click,Organic,0,1.0,,,0,True
+s44,u159,2025-04-25 10:22:14,Product,Mobile,Safari,USA,77,click,Organic,0,2.0,,,0,True
+s441,u331,2025-04-25 10:26:02,Payment,Tablet,Firefox,India,131,add_to_cart,Organic,1,,3.0,,1,True
+s442,u34,2025-04-25 10:54:16,Payment,Desktop,Chrome,Germany,170,add_to_cart,Social Media,1,,1.0,,1,True
+s443,u444,2025-04-25 10:49:49,Home,Desktop,Chrome,UK,95,click,Organic,0,1.0,,,0,True
+s444,u366,2025-04-25 10:04:42,Product,Mobile,Safari,India,274,checkout,Organic,0,,,1.0,0,True
+s446,u327,2025-04-25 10:51:08,Payment,Desktop,Safari,USA,138,checkout,Paid,0,,,1.0,0,True
+s448,u458,2025-04-25 11:18:19,Cart,Desktop,Safari,USA,187,checkout,Paid,0,,,1.0,0,True
+s45,u60,2025-04-25 10:22:40,Product,Tablet,Safari,Germany,184,add_to_cart,Organic,0,,2.0,,0,True
+s451,u376,2025-04-25 11:52:30,Cart,Mobile,Chrome,USA,261,click,Email,0,1.0,,,0,True
+s454,u171,2025-04-25 11:46:22,Product,Desktop,Safari,India,195,checkout,Paid,0,,,1.0,0,True
+s455,u190,2025-04-25 10:10:55,Home,Tablet,Firefox,Germany,217,checkout,Email,0,,,3.0,0,True
+s456,u182,2025-04-25 10:30:29,Cart,Mobile,Firefox,UK,126,checkout,Email,0,,,1.0,0,True
+s461,u159,2025-04-25 10:28:11,Product,Desktop,Firefox,India,226,click,Email,0,1.0,,,0,True
+s462,u78,2025-04-25 10:46:39,Payment,Tablet,Chrome,India,246,add_to_cart,Paid,1,,1.0,,1,True
+s463,u328,2025-04-25 11:27:54,Payment,Desktop,Safari,USA,243,click,Organic,0,1.0,,,0,True
+s464,u71,2025-04-25 10:21:09,Home,Mobile,Chrome,India,229,add_to_cart,Paid,0,,1.0,,0,True
+s466,u500,2025-04-25 11:02:27,Home,Desktop,Safari,UK,92,add_to_cart,Email,1,,1.0,,1,True
+s467,u51,2025-04-25 10:32:22,Payment,Desktop,Firefox,USA,78,add_to_cart,Social Media,1,,1.0,,1,True
+s469,u35,2025-04-25 10:04:17,Cart,Desktop,Safari,USA,131,checkout,Social Media,0,,,1.0,0,True
+s47,u170,2025-04-25 10:28:32,Product,Desktop,Safari,UK,200,add_to_cart,Paid,1,,1.0,,1,True
+s470,u62,2025-04-25 10:18:03,Payment,Desktop,Firefox,USA,297,click,Social Media,0,1.0,,,0,True
+s471,u194,2025-04-25 10:52:37,Product,Desktop,Chrome,USA,193,checkout,Social Media,0,,,1.0,0,True
+s473,u322,2025-04-25 10:18:22,Home,Desktop,Safari,India,272,click,Social Media,0,1.0,,,0,True
+s474,u195,2025-04-25 11:09:25,Home,Mobile,Firefox,India,107,click,Social Media,0,1.0,,,0,True
+s475,u447,2025-04-25 10:12:35,Home,Tablet,Safari,USA,133,checkout,Social Media,0,,,1.0,0,True
+s476,u104,2025-04-25 10:20:07,Cart,Desktop,Safari,Germany,62,add_to_cart,Organic,1,,1.0,,1,True
+s477,u11,2025-04-25 11:24:09,Home,Mobile,Chrome,Germany,253,click,Organic,1,1.0,,,0,False
+s478,u132,2025-04-25 11:50:44,Cart,Desktop,Safari,Germany,205,click,Organic,0,1.0,,,0,True
+s479,u39,2025-04-25 10:27:40,Product,Tablet,Chrome,USA,87,click,Social Media,0,1.0,,,0,True
+s48,u47,2025-04-25 10:53:41,Payment,Desktop,Chrome,UK,72,click,Email,0,1.0,,,0,True
+s480,u274,2025-04-25 10:32:39,Cart,Mobile,Chrome,UK,233,checkout,Social Media,0,,,1.0,0,True
+s481,u377,2025-04-25 10:33:02,Cart,Desktop,Chrome,USA,273,click,Email,0,1.0,,,0,True
+s483,u253,2025-04-25 10:09:57,Home,Mobile,Chrome,Germany,213,checkout,Organic,0,,,1.0,0,True
+s484,u58,2025-04-25 11:17:57,Home,Tablet,Safari,UK,187,click,Paid,0,1.0,,,1,False
+s485,u405,2025-04-25 11:07:27,Home,Mobile,Safari,UK,179,checkout,Paid,0,,,1.0,0,True
+s486,u19,2025-04-25 10:25:40,Product,Mobile,Chrome,USA,214,checkout,Paid,0,,,1.0,0,True
+s487,u50,2025-04-25 10:06:46,Payment,Tablet,Safari,Germany,99,click,Email,0,1.0,,,0,True
+s488,u473,2025-04-25 11:39:01,Payment,Tablet,Firefox,USA,131,add_to_cart,Organic,1,,1.0,,0,False
+s489,u318,2025-04-25 10:33:16,Product,Mobile,Firefox,India,147,click,Social Media,1,1.0,,,1,True
+s493,u237,2025-04-25 10:20:18,Product,Desktop,Chrome,India,210,click,Paid,0,1.0,,,0,True
+s494,u435,2025-04-25 10:30:46,Cart,Tablet,Chrome,Germany,294,click,Social Media,0,2.0,,,0,True
+s495,u310,2025-04-25 11:04:04,Home,Mobile,Firefox,Germany,115,checkout,Social Media,0,,,1.0,0,True
+s496,u408,2025-04-25 10:24:08,Payment,Tablet,Safari,India,265,checkout,Email,0,,,1.0,0,True
+s497,u37,2025-04-25 10:36:21,Payment,Mobile,Safari,India,88,checkout,Social Media,0,,,1.0,0,True
+s498,u39,2025-04-25 10:24:10,Cart,Desktop,Chrome,USA,259,click,Organic,1,1.0,,,1,True
+s499,u109,2025-04-25 10:23:16,Home,Desktop,Firefox,India,101,add_to_cart,Social Media,1,,2.0,,1,True
+s5,u63,2025-04-25 11:14:45,Cart,Desktop,Chrome,Germany,183,checkout,Email,0,,,1.0,0,True
+s50,u83,2025-04-25 10:11:47,Product,Tablet,Chrome,Germany,228,checkout,Email,0,,,1.0,0,True
+s500,u234,2025-04-25 11:15:15,Product,Mobile,Chrome,USA,281,click,Email,0,1.0,,,0,True
+s502,u18,2025-04-25 10:16:13,Product,Mobile,Firefox,UK,236,checkout,Paid,0,,,1.0,0,True
+s503,u449,2025-04-25 10:30:50,Payment,Tablet,Chrome,USA,63,add_to_cart,Paid,0,,1.0,,1,False
+s505,u391,2025-04-25 11:15:44,Product,Mobile,Safari,Germany,174,click,Paid,0,1.0,,,0,True
+s506,u115,2025-04-25 11:26:26,Home,Mobile,Firefox,Germany,203,click,Email,0,1.0,,,0,True
+s507,u105,2025-04-25 10:14:08,Payment,Desktop,Safari,Germany,160,click,Organic,0,1.0,,,0,True
+s509,u405,2025-04-25 10:51:20,Payment,Tablet,Chrome,UK,126,click,Paid,0,1.0,,,1,False
+s51,u24,2025-04-25 10:33:25,Payment,Tablet,Chrome,Germany,166,checkout,Paid,0,,,1.0,0,True
+s511,u144,2025-04-25 11:44:41,Home,Mobile,Safari,USA,230,add_to_cart,Paid,1,,1.0,,1,True
+s512,u492,2025-04-25 10:15:29,Home,Tablet,Chrome,Germany,192,add_to_cart,Organic,0,,1.0,,0,True
+s514,u51,2025-04-25 10:26:57,Payment,Mobile,Firefox,USA,231,checkout,Paid,0,,,1.0,0,True
+s516,u99,2025-04-25 10:04:38,Home,Tablet,Chrome,India,300,checkout,Paid,0,,,1.0,0,True
+s517,u279,2025-04-25 10:12:34,Home,Desktop,Safari,India,176,add_to_cart,Email,1,,2.0,,1,True
+s518,u64,2025-04-25 10:51:24,Payment,Desktop,Chrome,USA,267,add_to_cart,Social Media,1,,1.0,,1,True
+s519,u300,2025-04-25 10:16:03,Payment,Desktop,Firefox,UK,278,click,Organic,0,1.0,,,0,True
+s521,u442,2025-04-25 11:20:29,Home,Mobile,Safari,UK,239,click,Email,0,1.0,,,0,True
+s522,u23,2025-04-25 11:36:46,Payment,Desktop,Safari,USA,153,add_to_cart,Organic,1,,1.0,,1,True
+s524,u394,2025-04-25 10:12:14,Product,Mobile,Firefox,USA,75,checkout,Email,0,,,1.0,0,True
+s525,u102,2025-04-25 10:23:41,Product,Tablet,Chrome,USA,257,checkout,Social Media,0,,,1.0,0,True
+s526,u352,2025-04-25 11:22:05,Product,Mobile,Chrome,India,98,click,Organic,0,1.0,,,0,True
+s531,u385,2025-04-25 10:33:45,Cart,Tablet,Firefox,USA,130,add_to_cart,Organic,0,,1.0,,0,True
+s532,u322,2025-04-25 11:09:17,Cart,Desktop,Chrome,India,174,add_to_cart,Organic,0,,1.0,,0,True
+s534,u206,2025-04-25 10:27:23,Product,Mobile,Safari,India,146,add_to_cart,Organic,0,,2.0,,0,True
+s535,u17,2025-04-25 10:15:44,Product,Mobile,Chrome,Germany,210,add_to_cart,Email,0,,1.0,,0,True
+s537,u111,2025-04-25 10:05:26,Home,Mobile,Safari,UK,220,checkout,Social Media,0,,,1.0,0,True
+s539,u450,2025-04-25 11:30:45,Cart,Mobile,Firefox,USA,292,click,Organic,0,1.0,,,0,True
+s54,u164,2025-04-25 11:21:31,Product,Desktop,Firefox,India,267,add_to_cart,Email,1,,1.0,,1,True
+s542,u275,2025-04-25 10:16:52,Payment,Mobile,Safari,UK,209,add_to_cart,Email,1,,1.0,,1,True
+s543,u437,2025-04-25 10:16:22,Home,Desktop,Safari,UK,271,checkout,Organic,0,,,1.0,0,True
+s544,u241,2025-04-25 10:20:40,Payment,Desktop,Safari,Germany,132,click,Paid,0,1.0,,,0,True
+s547,u15,2025-04-25 11:05:01,Payment,Mobile,Firefox,India,297,checkout,Organic,0,,,1.0,0,True
+s549,u74,2025-04-25 11:25:39,Home,Desktop,Chrome,UK,278,checkout,Organic,0,,,1.0,0,True
+s552,u65,2025-04-25 11:37:38,Payment,Tablet,Chrome,USA,83,click,Organic,0,1.0,,,0,True
+s554,u448,2025-04-25 11:47:56,Home,Tablet,Chrome,USA,196,click,Organic,0,1.0,,,0,True
+s558,u145,2025-04-25 11:22:34,Product,Tablet,Firefox,USA,235,checkout,Email,0,,,1.0,0,True
+s559,u99,2025-04-25 11:50:25,Home,Mobile,Chrome,Germany,225,add_to_cart,Paid,1,,1.0,,1,True
+s560,u307,2025-04-25 10:34:15,Payment,Mobile,Safari,USA,209,checkout,Email,0,,,2.0,0,True
+s561,u208,2025-04-25 10:11:09,Cart,Tablet,Firefox,Germany,194,click,Email,0,3.0,,,0,True
+s562,u24,2025-04-25 10:07:26,Cart,Tablet,Chrome,Germany,86,click,Email,0,1.0,,,0,True
+s565,u312,2025-04-25 10:27:07,Payment,Desktop,Safari,India,139,add_to_cart,Email,1,,1.0,,1,True
+s566,u102,2025-04-25 11:36:25,Payment,Mobile,Chrome,USA,142,click,Organic,0,1.0,,,0,True
+s567,u28,2025-04-25 10:26:26,Home,Desktop,Safari,Germany,187,click,Paid,1,2.0,,,1,True
+s568,u398,2025-04-25 10:08:31,Payment,Mobile,Firefox,India,126,add_to_cart,Paid,0,,1.0,,1,False
+s571,u375,2025-04-25 11:31:18,Home,Mobile,Chrome,USA,246,click,Email,0,1.0,,,0,True
+s572,u452,2025-04-25 11:01:32,Product,Mobile,Safari,Germany,146,click,Social Media,0,2.0,,,0,True
+s574,u466,2025-04-25 11:22:48,Home,Mobile,Chrome,UK,185,add_to_cart,Email,1,,1.0,,1,True
+s575,u253,2025-04-25 11:36:07,Product,Desktop,Chrome,Germany,88,add_to_cart,Social Media,1,,1.0,,1,True
+s577,u21,2025-04-25 10:16:35,Payment,Mobile,Firefox,India,287,checkout,Email,0,,,1.0,0,True
+s578,u249,2025-04-25 10:11:16,Payment,Desktop,Safari,USA,246,checkout,Paid,0,,,1.0,0,True
+s579,u165,2025-04-25 10:18:29,Payment,Desktop,Firefox,Germany,163,add_to_cart,Social Media,1,,1.0,,1,True
+s58,u246,2025-04-25 10:58:58,Home,Tablet,Safari,UK,275,add_to_cart,Paid,1,,1.0,,1,True
+s581,u309,2025-04-25 10:28:58,Product,Desktop,Safari,UK,243,checkout,Organic,0,,,2.0,0,True
+s582,u130,2025-04-25 11:38:48,Product,Mobile,Chrome,USA,294,add_to_cart,Email,1,,2.0,,1,True
+s583,u349,2025-04-25 11:32:55,Home,Mobile,Firefox,India,274,add_to_cart,Paid,1,,1.0,,1,True
+s584,u15,2025-04-25 10:52:46,Home,Desktop,Safari,USA,279,click,Paid,1,2.0,,,0,False
+s585,u166,2025-04-25 10:52:26,Cart,Desktop,Chrome,India,268,checkout,Paid,0,,,1.0,0,True
+s586,u183,2025-04-25 11:57:42,Home,Tablet,Firefox,UK,91,add_to_cart,Social Media,1,,1.0,,1,True
+s587,u187,2025-04-25 10:12:04,Cart,Mobile,Firefox,USA,155,checkout,Email,0,,,1.0,0,True
+s588,u57,2025-04-25 10:21:17,Home,Tablet,Chrome,USA,188,click,Organic,0,1.0,,,0,True
+s589,u136,2025-04-25 10:06:29,Cart,Tablet,Firefox,USA,219,checkout,Organic,0,,,1.0,0,True
+s59,u18,2025-04-25 11:30:35,Cart,Mobile,Firefox,Germany,282,checkout,Email,0,,,1.0,0,True
+s592,u84,2025-04-25 11:50:00,Payment,Tablet,Firefox,USA,273,checkout,Organic,0,,,1.0,0,True
+s595,u308,2025-04-25 10:45:14,Payment,Desktop,Safari,USA,274,click,Paid,0,1.0,,,0,True
+s596,u477,2025-04-25 10:20:29,Home,Desktop,Safari,USA,266,add_to_cart,Email,1,,1.0,,1,True
+s597,u17,2025-04-25 10:31:36,Cart,Tablet,Firefox,Germany,78,checkout,Paid,0,,,1.0,0,True
+s598,u97,2025-04-25 10:08:35,Home,Desktop,Safari,UK,165,checkout,Email,0,,,1.0,0,True
+s60,u42,2025-04-25 11:02:50,Payment,Mobile,Safari,UK,212,checkout,Organic,0,,,1.0,0,True
+s600,u242,2025-04-25 10:18:22,Home,Tablet,Firefox,UK,194,add_to_cart,Paid,1,,1.0,,0,False
+s601,u214,2025-04-25 11:33:10,Product,Mobile,Firefox,Germany,173,checkout,Organic,0,,,1.0,0,True
+s602,u50,2025-04-25 11:04:16,Product,Tablet,Firefox,USA,234,add_to_cart,Organic,1,,2.0,,1,True
+s603,u97,2025-04-25 10:54:58,Product,Tablet,Firefox,Germany,192,add_to_cart,Organic,1,,1.0,,1,True
+s605,u83,2025-04-25 10:05:22,Payment,Desktop,Safari,Germany,144,click,Organic,0,1.0,,,0,True
+s606,u123,2025-04-25 11:28:25,Home,Desktop,Firefox,UK,101,checkout,Social Media,0,,,1.0,0,True
+s607,u13,2025-04-25 10:03:56,Payment,Desktop,Firefox,Germany,258,click,Social Media,0,1.0,,,0,True
+s609,u100,2025-04-25 11:13:06,Product,Tablet,Firefox,UK,228,click,Email,0,1.0,,,0,True
+s610,u395,2025-04-25 10:04:46,Home,Mobile,Chrome,UK,176,click,Organic,0,1.0,,,0,True
+s612,u421,2025-04-25 10:17:02,Payment,Desktop,Chrome,UK,284,add_to_cart,Organic,1,,1.0,,1,True
+s613,u42,2025-04-25 10:33:06,Product,Tablet,Firefox,India,258,add_to_cart,Organic,1,,1.0,,1,True
+s615,u208,2025-04-25 11:06:02,Product,Desktop,Safari,UK,270,checkout,Social Media,0,,,1.0,0,True
+s616,u424,2025-04-25 10:11:32,Home,Mobile,Safari,Germany,186,click,Social Media,1,1.0,,,1,True
+s618,u427,2025-04-25 11:31:53,Payment,Desktop,Firefox,India,183,checkout,Paid,0,,,1.0,0,True
+s619,u166,2025-04-25 10:18:37,Product,Tablet,Firefox,Germany,226,add_to_cart,Paid,1,,2.0,,1,True
+s620,u195,2025-04-25 10:27:15,Payment,Mobile,Firefox,India,237,checkout,Email,0,,,2.0,0,True
+s621,u490,2025-04-25 10:02:05,Product,Desktop,Safari,India,251,add_to_cart,Paid,1,,1.0,,1,True
+s622,u121,2025-04-25 10:28:35,Home,Desktop,Firefox,UK,151,checkout,Paid,0,,,1.0,0,True
+s623,u85,2025-04-25 10:22:06,Cart,Tablet,Chrome,UK,300,checkout,Email,0,,,1.0,0,True
+s624,u58,2025-04-25 10:13:13,Home,Tablet,Safari,USA,144,add_to_cart,Email,1,,1.0,,1,True
+s625,u380,2025-04-25 11:15:29,Product,Desktop,Firefox,USA,69,click,Social Media,0,1.0,,,0,True
+s631,u188,2025-04-25 10:56:16,Cart,Desktop,Firefox,India,60,checkout,Paid,0,,,1.0,0,True
+s632,u93,2025-04-25 10:13:46,Home,Tablet,Safari,India,259,click,Email,0,1.0,,,0,True
+s634,u118,2025-04-25 10:33:46,Cart,Mobile,Safari,USA,93,checkout,Paid,0,,,1.0,0,True
+s636,u358,2025-04-25 10:59:43,Product,Desktop,Chrome,India,296,add_to_cart,Organic,1,,1.0,,1,True
+s637,u32,2025-04-25 11:20:33,Product,Mobile,Firefox,UK,257,add_to_cart,Paid,1,,1.0,,1,True
+s638,u299,2025-04-25 11:13:53,Product,Desktop,Firefox,UK,214,add_to_cart,Email,1,,1.0,,1,True
+s639,u370,2025-04-25 10:44:17,Home,Desktop,Chrome,USA,253,checkout,Organic,0,,,1.0,0,True
+s64,u131,2025-04-25 11:35:39,Payment,Mobile,Safari,India,168,checkout,Email,0,,,1.0,0,True
+s641,u442,2025-04-25 11:38:04,Cart,Tablet,Firefox,Germany,93,add_to_cart,Organic,1,,1.0,,1,True
+s642,u456,2025-04-25 11:55:44,Home,Desktop,Chrome,Germany,74,add_to_cart,Social Media,1,,1.0,,1,True
+s643,u87,2025-04-25 10:40:21,Product,Desktop,Firefox,UK,150,click,Organic,0,1.0,,,0,True
+s645,u432,2025-04-25 11:01:34,Home,Mobile,Chrome,Germany,94,click,Social Media,0,1.0,,,0,True
+s647,u478,2025-04-25 10:42:20,Payment,Tablet,Firefox,UK,69,checkout,Paid,0,,,2.0,0,True
+s648,u3,2025-04-25 10:53:30,Product,Mobile,Chrome,India,248,click,Social Media,0,1.0,,,0,True
+s65,u294,2025-04-25 11:35:38,Home,Desktop,Chrome,Germany,140,add_to_cart,Paid,1,,1.0,,1,True
+s650,u246,2025-04-25 10:47:37,Cart,Mobile,Chrome,Germany,289,add_to_cart,Email,1,,2.0,,1,True
+s651,u35,2025-04-25 11:16:05,Home,Desktop,Firefox,USA,246,click,Email,0,1.0,,,0,True
+s652,u382,2025-04-25 11:04:34,Payment,Mobile,Safari,USA,186,click,Paid,0,1.0,,,0,True
+s653,u441,2025-04-25 11:53:21,Home,Tablet,Chrome,Germany,128,add_to_cart,Paid,1,,1.0,,1,True
+s654,u124,2025-04-25 11:03:41,Home,Mobile,Firefox,USA,96,click,Organic,0,1.0,,,0,True
+s659,u429,2025-04-25 11:48:17,Product,Desktop,Safari,USA,145,click,Organic,0,1.0,,,0,True
+s66,u355,2025-04-25 11:17:38,Home,Mobile,Chrome,India,278,add_to_cart,Social Media,1,,1.0,,1,True
+s660,u329,2025-04-25 10:50:21,Product,Desktop,Chrome,Germany,108,click,Email,0,2.0,,,0,True
+s661,u68,2025-04-25 10:40:00,Home,Desktop,Chrome,Germany,177,click,Social Media,0,1.0,,,0,True
+s662,u409,2025-04-25 10:07:34,Home,Tablet,Safari,Germany,83,add_to_cart,Email,1,,1.0,,1,True
+s663,u40,2025-04-25 10:07:07,Product,Tablet,Firefox,Germany,230,add_to_cart,Email,1,,4.0,,1,True
+s664,u341,2025-04-25 11:52:26,Cart,Desktop,Chrome,Germany,299,click,Social Media,0,1.0,,,0,True
+s665,u408,2025-04-25 10:07:39,Cart,Mobile,Firefox,Germany,97,click,Social Media,0,1.0,,,0,True
+s666,u345,2025-04-25 11:09:41,Payment,Tablet,Firefox,India,157,checkout,Email,0,,,1.0,0,True
+s668,u285,2025-04-25 11:28:40,Home,Mobile,Safari,Germany,162,checkout,Social Media,0,,,1.0,0,True
+s669,u207,2025-04-25 11:35:11,Cart,Tablet,Chrome,USA,167,checkout,Social Media,0,,,1.0,0,True
+s670,u173,2025-04-25 11:43:55,Payment,Mobile,Firefox,UK,273,click,Social Media,0,1.0,,,0,True
+s671,u45,2025-04-25 11:15:30,Payment,Desktop,Firefox,USA,134,checkout,Email,0,,,2.0,0,True
+s674,u184,2025-04-25 10:59:45,Cart,Tablet,Chrome,UK,268,add_to_cart,Paid,1,,1.0,,1,True
+s675,u497,2025-04-25 10:05:59,Payment,Mobile,Safari,USA,114,click,Email,0,1.0,,,0,True
+s676,u118,2025-04-25 10:51:51,Product,Mobile,Safari,UK,125,add_to_cart,Social Media,1,,1.0,,1,True
+s677,u427,2025-04-25 10:46:08,Payment,Mobile,Chrome,USA,183,click,Social Media,0,3.0,,,0,True
+s678,u287,2025-04-25 10:58:12,Payment,Desktop,Firefox,USA,107,checkout,Social Media,0,,,1.0,0,True
+s679,u382,2025-04-25 10:10:37,Product,Mobile,Firefox,USA,222,click,Email,0,1.0,,,0,True
+s68,u234,2025-04-25 10:06:54,Cart,Tablet,Chrome,UK,154,add_to_cart,Social Media,1,,1.0,,1,True
+s681,u419,2025-04-25 10:27:03,Home,Mobile,Safari,USA,83,checkout,Social Media,0,,,1.0,0,True
+s682,u324,2025-04-25 10:24:08,Cart,Tablet,Chrome,India,175,add_to_cart,Paid,1,,1.0,,1,True
+s683,u305,2025-04-25 10:13:17,Cart,Tablet,Firefox,UK,281,click,Organic,1,1.0,,,1,True
+s684,u373,2025-04-25 10:48:19,Cart,Mobile,Firefox,Germany,204,add_to_cart,Social Media,1,,1.0,,1,True
+s685,u316,2025-04-25 11:49:55,Payment,Desktop,Chrome,India,296,checkout,Paid,0,,,1.0,0,True
+s69,u20,2025-04-25 11:17:34,Payment,Tablet,Firefox,India,208,add_to_cart,Organic,1,,1.0,,1,True
+s690,u460,2025-04-25 11:52:36,Cart,Tablet,Safari,India,244,click,Organic,0,1.0,,,0,True
+s691,u2,2025-04-25 10:14:16,Payment,Tablet,Chrome,USA,97,add_to_cart,Email,1,,1.0,,1,True
+s692,u283,2025-04-25 10:21:23,Payment,Tablet,Firefox,USA,173,click,Paid,0,1.0,,,0,True
+s693,u42,2025-04-25 10:56:20,Cart,Desktop,Firefox,Germany,199,click,Social Media,0,1.0,,,0,True
+s694,u353,2025-04-25 10:15:20,Payment,Desktop,Chrome,India,138,click,Social Media,0,2.0,,,0,True
+s698,u95,2025-04-25 11:33:09,Payment,Desktop,Chrome,Germany,188,add_to_cart,Email,1,,1.0,,1,True
+s699,u141,2025-04-25 11:32:32,Cart,Tablet,Firefox,India,253,click,Social Media,0,1.0,,,0,True
+s701,u83,2025-04-25 11:11:16,Product,Mobile,Safari,UK,67,add_to_cart,Social Media,1,,1.0,,1,True
+s703,u175,2025-04-25 10:43:38,Cart,Mobile,Chrome,Germany,278,checkout,Social Media,0,,,1.0,0,True
+s705,u147,2025-04-25 11:04:03,Home,Tablet,Firefox,Germany,136,click,Social Media,0,1.0,,,0,True
+s706,u52,2025-04-25 11:04:16,Payment,Tablet,Chrome,Germany,231,add_to_cart,Social Media,1,,1.0,,1,True
+s707,u322,2025-04-25 10:01:55,Product,Mobile,Firefox,Germany,209,checkout,Email,0,,,2.0,0,True
+s708,u374,2025-04-25 11:47:22,Cart,Mobile,Safari,India,158,checkout,Paid,0,,,1.0,0,True
+s712,u273,2025-04-25 10:58:29,Cart,Desktop,Safari,UK,63,add_to_cart,Social Media,1,,1.0,,1,True
+s714,u118,2025-04-25 10:36:44,Cart,Mobile,Firefox,USA,103,click,Paid,1,1.0,,,1,True
+s715,u396,2025-04-25 11:27:37,Payment,Tablet,Safari,USA,69,checkout,Social Media,0,,,1.0,0,True
+s717,u316,2025-04-25 11:52:10,Payment,Tablet,Chrome,Germany,71,click,Paid,0,1.0,,,0,True
+s718,u239,2025-04-25 10:52:46,Payment,Desktop,Safari,UK,150,checkout,Social Media,0,,,1.0,0,True
+s719,u4,2025-04-25 10:24:46,Product,Tablet,Safari,Germany,77,click,Organic,1,1.0,,,1,True
+s720,u494,2025-04-25 10:58:37,Cart,Desktop,Chrome,UK,225,click,Paid,1,1.0,,,1,True
+s721,u260,2025-04-25 10:10:07,Cart,Mobile,Firefox,India,74,add_to_cart,Email,0,,1.0,,0,True
+s722,u425,2025-04-25 11:14:03,Payment,Tablet,Firefox,India,297,click,Social Media,0,1.0,,,0,True
+s723,u286,2025-04-25 11:54:04,Product,Tablet,Safari,USA,237,click,Organic,0,1.0,,,0,True
+s725,u284,2025-04-25 10:12:42,Cart,Mobile,Chrome,UK,165,add_to_cart,Organic,1,,2.0,,1,True
+s726,u221,2025-04-25 10:28:57,Product,Mobile,Safari,Germany,190,add_to_cart,Organic,1,,1.0,,1,True
+s728,u160,2025-04-25 11:54:30,Cart,Tablet,Chrome,USA,102,checkout,Email,0,,,1.0,0,True
+s732,u404,2025-04-25 10:09:13,Cart,Desktop,Safari,India,257,checkout,Email,0,,,2.0,0,True
+s736,u453,2025-04-25 11:58:51,Product,Desktop,Chrome,UK,70,click,Social Media,0,1.0,,,0,True
+s737,u123,2025-04-25 11:29:25,Home,Desktop,Chrome,UK,259,add_to_cart,Email,1,,1.0,,1,True
+s738,u493,2025-04-25 10:58:56,Home,Tablet,Firefox,USA,145,add_to_cart,Social Media,1,,1.0,,1,True
+s739,u55,2025-04-25 10:12:29,Home,Mobile,Firefox,UK,254,add_to_cart,Organic,1,,1.0,,1,True
+s742,u55,2025-04-25 10:21:07,Payment,Tablet,Safari,UK,126,checkout,Social Media,0,,,1.0,0,True
+s743,u284,2025-04-25 10:39:24,Home,Mobile,Safari,Germany,255,checkout,Email,0,,,1.0,0,True
+s745,u497,2025-04-25 10:59:31,Product,Mobile,Safari,India,275,checkout,Paid,0,,,1.0,0,True
+s748,u451,2025-04-25 10:14:56,Product,Desktop,Firefox,USA,138,add_to_cart,Email,0,,1.0,,0,True
+s749,u280,2025-04-25 11:33:14,Product,Mobile,Chrome,India,210,click,Organic,0,2.0,,,0,True
+s753,u6,2025-04-25 10:16:23,Home,Desktop,Chrome,Germany,224,checkout,Paid,0,,,3.0,0,True
+s754,u81,2025-04-25 10:34:49,Home,Tablet,Safari,India,118,checkout,Organic,0,,,2.0,0,True
+s756,u497,2025-04-25 10:01:06,Product,Desktop,Chrome,India,168,add_to_cart,Paid,1,,1.0,,1,True
+s757,u120,2025-04-25 10:05:50,Product,Tablet,Firefox,Germany,180,add_to_cart,Organic,1,,1.0,,1,True
+s758,u214,2025-04-25 10:33:36,Product,Mobile,Safari,USA,292,add_to_cart,Social Media,0,,1.0,,1,False
+s763,u240,2025-04-25 10:47:26,Cart,Desktop,Safari,Germany,232,checkout,Social Media,0,,,1.0,0,True
+s767,u82,2025-04-25 10:13:40,Product,Tablet,Safari,USA,275,checkout,Paid,0,,,2.0,0,True
+s769,u321,2025-04-25 11:12:56,Product,Tablet,Safari,Germany,107,checkout,Organic,0,,,1.0,0,True
+s77,u236,2025-04-25 11:29:48,Payment,Tablet,Safari,Germany,128,click,Social Media,1,1.0,,,1,True
+s770,u337,2025-04-25 11:44:17,Product,Desktop,Safari,USA,124,add_to_cart,Social Media,1,,1.0,,1,True
+s773,u21,2025-04-25 10:58:30,Cart,Tablet,Firefox,USA,101,checkout,Email,0,,,1.0,0,True
+s774,u197,2025-04-25 10:02:49,Home,Desktop,Safari,India,93,click,Organic,0,1.0,,,0,True
+s776,u311,2025-04-25 11:56:00,Home,Desktop,Firefox,USA,114,click,Email,0,1.0,,,0,True
+s777,u245,2025-04-25 10:23:16,Home,Tablet,Safari,UK,298,add_to_cart,Paid,1,,1.0,,1,True
+s779,u412,2025-04-25 10:57:20,Payment,Desktop,Firefox,UK,139,click,Social Media,0,1.0,,,0,True
+s781,u11,2025-04-25 11:07:01,Payment,Tablet,Firefox,Germany,82,add_to_cart,Email,0,,2.0,,0,True
+s782,u430,2025-04-25 10:34:52,Home,Tablet,Firefox,Germany,209,click,Social Media,0,1.0,,,0,True
+s783,u132,2025-04-25 10:12:25,Home,Desktop,Safari,USA,133,click,Paid,0,1.0,,,0,True
+s784,u397,2025-04-25 11:51:03,Product,Tablet,Safari,USA,77,checkout,Organic,0,,,1.0,0,True
+s785,u356,2025-04-25 10:20:51,Product,Desktop,Firefox,Germany,144,checkout,Social Media,0,,,2.0,0,True
+s787,u248,2025-04-25 11:28:00,Payment,Mobile,Safari,USA,85,add_to_cart,Organic,0,,1.0,,0,True
+s788,u228,2025-04-25 10:06:03,Product,Desktop,Firefox,USA,228,add_to_cart,Organic,1,,2.0,,1,True
+s789,u395,2025-04-25 11:00:28,Product,Tablet,Chrome,USA,177,checkout,Organic,0,,,1.0,0,True
+s79,u280,2025-04-25 10:21:15,Payment,Desktop,Safari,USA,141,checkout,Organic,0,,,1.0,0,True
+s790,u76,2025-04-25 10:48:14,Cart,Desktop,Safari,Germany,235,checkout,Organic,0,,,1.0,0,True
+s791,u291,2025-04-25 11:31:04,Product,Mobile,Safari,USA,224,add_to_cart,Paid,1,,1.0,,1,True
+s794,u120,2025-04-25 10:53:59,Cart,Tablet,Chrome,Germany,248,add_to_cart,Organic,0,,1.0,,0,True
+s795,u231,2025-04-25 11:26:02,Payment,Mobile,Firefox,India,159,checkout,Organic,0,,,1.0,0,True
+s796,u233,2025-04-25 10:50:39,Payment,Tablet,Safari,USA,286,add_to_cart,Organic,0,,1.0,,0,True
+s8,u219,2025-04-25 10:11:57,Cart,Tablet,Safari,Germany,111,click,Organic,1,1.0,,,0,False
+s80,u316,2025-04-25 10:37:26,Cart,Mobile,Safari,UK,260,checkout,Organic,0,,,1.0,0,True
+s800,u354,2025-04-25 10:42:05,Payment,Desktop,Safari,India,72,add_to_cart,Paid,0,,1.0,,1,False
+s801,u52,2025-04-25 11:07:02,Home,Mobile,Chrome,Germany,220,click,Paid,0,1.0,,,0,True
+s804,u82,2025-04-25 10:41:26,Cart,Desktop,Chrome,Germany,215,checkout,Social Media,0,,,1.0,0,True
+s805,u62,2025-04-25 11:28:48,Cart,Mobile,Chrome,Germany,214,checkout,Social Media,0,,,1.0,0,True
+s806,u358,2025-04-25 10:05:57,Product,Desktop,Firefox,UK,230,click,Paid,0,2.0,,,0,True
+s809,u128,2025-04-25 10:22:17,Payment,Mobile,Chrome,UK,80,add_to_cart,Paid,1,,1.0,,0,False
+s81,u315,2025-04-25 10:00:01,Product,Desktop,Firefox,Germany,87,add_to_cart,Email,1,,1.0,,1,True
+s810,u421,2025-04-25 11:30:12,Home,Mobile,Chrome,USA,94,checkout,Social Media,0,,,1.0,0,True
+s811,u15,2025-04-25 11:40:40,Product,Mobile,Safari,Germany,159,click,Paid,0,1.0,,,0,True
+s812,u427,2025-04-25 10:57:50,Payment,Tablet,Safari,UK,295,checkout,Email,0,,,1.0,0,True
+s814,u109,2025-04-25 10:20:47,Home,Tablet,Safari,UK,128,checkout,Email,0,,,1.0,0,True
+s815,u76,2025-04-25 11:37:45,Payment,Mobile,Firefox,UK,63,add_to_cart,Email,0,,1.0,,0,True
+s816,u16,2025-04-25 10:15:39,Product,Mobile,Firefox,USA,151,click,Organic,0,2.0,,,0,True
+s817,u169,2025-04-25 10:38:02,Home,Mobile,Firefox,Germany,233,checkout,Email,0,,,1.0,0,True
+s818,u5,2025-04-25 10:40:30,Home,Mobile,Firefox,UK,193,add_to_cart,Email,1,,1.0,,1,True
+s819,u188,2025-04-25 10:01:54,Payment,Tablet,Chrome,USA,211,click,Paid,0,1.0,,,0,True
+s82,u333,2025-04-25 10:44:14,Home,Tablet,Safari,UK,273,checkout,Email,0,,,2.0,0,True
+s820,u379,2025-04-25 11:23:38,Home,Mobile,Firefox,Germany,228,checkout,Organic,0,,,1.0,0,True
+s821,u317,2025-04-25 10:07:38,Product,Mobile,Chrome,India,269,checkout,Social Media,0,,,1.0,0,True
+s823,u396,2025-04-25 10:22:26,Payment,Desktop,Firefox,India,229,checkout,Paid,0,,,1.0,0,True
+s824,u335,2025-04-25 10:43:10,Home,Mobile,Chrome,Germany,116,click,Email,0,1.0,,,0,True
+s827,u220,2025-04-25 11:05:10,Payment,Desktop,Chrome,USA,247,add_to_cart,Organic,1,,1.0,,1,True
+s83,u479,2025-04-25 11:58:35,Payment,Desktop,Firefox,UK,109,add_to_cart,Paid,1,,1.0,,1,True
+s830,u141,2025-04-25 10:33:57,Cart,Desktop,Firefox,Germany,66,checkout,Paid,0,,,1.0,0,True
+s838,u454,2025-04-25 10:05:18,Home,Mobile,Safari,USA,109,add_to_cart,Email,1,,1.0,,1,True
+s839,u292,2025-04-25 11:02:28,Product,Mobile,Safari,USA,259,click,Social Media,0,1.0,,,0,True
+s840,u239,2025-04-25 11:03:01,Cart,Mobile,Firefox,Germany,175,click,Paid,0,1.0,,,0,True
+s842,u187,2025-04-25 11:32:20,Product,Mobile,Safari,UK,252,checkout,Social Media,0,,,1.0,0,True
+s843,u201,2025-04-25 11:50:27,Payment,Mobile,Firefox,UK,293,click,Email,0,1.0,,,0,True
+s846,u354,2025-04-25 10:27:50,Payment,Tablet,Safari,Germany,283,checkout,Organic,0,,,2.0,0,True
+s847,u154,2025-04-25 10:37:34,Home,Tablet,Safari,USA,220,checkout,Social Media,0,,,1.0,0,True
+s848,u86,2025-04-25 10:25:06,Home,Desktop,Safari,USA,229,add_to_cart,Organic,0,,1.0,,0,True
+s851,u392,2025-04-25 10:03:11,Cart,Tablet,Safari,Germany,120,add_to_cart,Paid,0,,2.0,,1,False
+s852,u263,2025-04-25 10:14:42,Cart,Mobile,Safari,USA,219,click,Social Media,0,2.0,,,0,True
+s853,u472,2025-04-25 10:10:29,Product,Mobile,Safari,India,287,add_to_cart,Organic,0,,1.0,,1,False
+s855,u9,2025-04-25 11:00:59,Cart,Mobile,Safari,India,212,click,Email,0,1.0,,,0,True
+s856,u20,2025-04-25 11:45:14,Home,Tablet,Firefox,UK,264,checkout,Email,0,,,1.0,0,True
+s857,u93,2025-04-25 10:55:46,Product,Desktop,Firefox,UK,120,checkout,Social Media,0,,,2.0,0,True
+s858,u243,2025-04-25 10:04:34,Cart,Mobile,Safari,Germany,77,click,Organic,0,1.0,,,0,True
+s86,u1,2025-04-25 11:50:57,Payment,Tablet,Firefox,USA,60,click,Social Media,0,1.0,,,0,True
+s860,u252,2025-04-25 10:08:10,Product,Tablet,Firefox,India,71,click,Social Media,0,3.0,,,0,True
+s863,u381,2025-04-25 10:45:13,Home,Desktop,Safari,USA,182,checkout,Email,0,,,3.0,0,True
+s866,u206,2025-04-25 10:03:03,Product,Tablet,Firefox,India,274,add_to_cart,Organic,1,,1.0,,1,True
+s867,u96,2025-04-25 11:06:26,Product,Tablet,Chrome,Germany,133,click,Paid,1,1.0,,,1,True
+s868,u188,2025-04-25 10:47:33,Product,Mobile,Firefox,India,257,add_to_cart,Paid,1,,2.0,,1,True
+s869,u139,2025-04-25 10:31:48,Product,Mobile,Chrome,USA,284,add_to_cart,Organic,1,,1.0,,1,True
+s87,u309,2025-04-25 10:14:43,Home,Tablet,Chrome,India,255,click,Email,0,1.0,,,0,True
+s871,u133,2025-04-25 11:41:18,Home,Tablet,Firefox,UK,259,add_to_cart,Email,1,,1.0,,1,True
+s873,u379,2025-04-25 10:15:49,Home,Desktop,Chrome,USA,229,checkout,Paid,0,,,1.0,0,True
+s874,u126,2025-04-25 11:02:07,Payment,Desktop,Safari,USA,246,click,Organic,0,1.0,,,0,True
+s875,u108,2025-04-25 10:47:25,Home,Tablet,Firefox,UK,170,checkout,Email,0,,,1.0,0,True
+s876,u322,2025-04-25 11:06:50,Home,Mobile,Firefox,Germany,140,click,Paid,0,1.0,,,0,True
+s878,u192,2025-04-25 10:24:09,Product,Tablet,Firefox,Germany,132,checkout,Social Media,0,,,1.0,0,True
+s88,u236,2025-04-25 10:56:01,Product,Mobile,Chrome,UK,113,add_to_cart,Social Media,1,,1.0,,1,True
+s881,u66,2025-04-25 10:05:42,Cart,Mobile,Chrome,UK,113,checkout,Paid,0,,,1.0,0,True
+s882,u266,2025-04-25 10:37:59,Cart,Desktop,Firefox,UK,102,click,Email,0,1.0,,,0,True
+s883,u361,2025-04-25 11:44:21,Product,Mobile,Chrome,Germany,139,checkout,Email,0,,,1.0,0,True
+s887,u339,2025-04-25 11:39:12,Product,Mobile,Firefox,Germany,98,checkout,Organic,0,,,1.0,0,True
+s888,u453,2025-04-25 11:00:54,Payment,Tablet,Safari,UK,268,add_to_cart,Organic,1,,1.0,,1,True
+s889,u417,2025-04-25 11:12:09,Product,Desktop,Safari,India,221,checkout,Organic,0,,,1.0,0,True
+s89,u34,2025-04-25 10:41:11,Home,Desktop,Chrome,USA,210,click,Paid,0,1.0,,,0,True
+s893,u249,2025-04-25 10:03:57,Payment,Mobile,Safari,Germany,245,click,Social Media,1,1.0,,,1,True
+s895,u471,2025-04-25 10:07:54,Product,Desktop,Chrome,India,118,add_to_cart,Organic,1,,2.0,,1,True
+s896,u119,2025-04-25 10:13:35,Product,Tablet,Chrome,Germany,275,checkout,Email,0,,,1.0,0,True
+s898,u379,2025-04-25 10:19:29,Payment,Tablet,Chrome,USA,256,click,Email,0,1.0,,,0,True
+s899,u205,2025-04-25 10:27:07,Product,Mobile,Safari,India,83,click,Organic,0,1.0,,,0,True
+s9,u160,2025-04-25 10:06:00,Home,Mobile,Firefox,India,86,checkout,Email,0,,,1.0,0,True
+s90,u292,2025-04-25 10:01:56,Product,Mobile,Firefox,USA,149,add_to_cart,Paid,1,,1.0,,1,True
+s900,u444,2025-04-25 10:16:01,Product,Desktop,Safari,UK,280,checkout,Social Media,0,,,1.0,0,True
+s903,u134,2025-04-25 10:50:28,Product,Desktop,Safari,India,230,add_to_cart,Email,1,,3.0,,1,True
+s904,u140,2025-04-25 10:50:29,Home,Desktop,Safari,Germany,247,add_to_cart,Paid,1,,1.0,,1,True
+s905,u357,2025-04-25 11:05:52,Cart,Desktop,Chrome,USA,265,checkout,Paid,0,,,1.0,0,True
+s91,u109,2025-04-25 10:41:13,Payment,Desktop,Firefox,Germany,227,click,Social Media,1,1.0,,,1,True
+s911,u266,2025-04-25 10:48:00,Product,Tablet,Chrome,Germany,191,checkout,Email,0,,,1.0,0,True
+s915,u6,2025-04-25 10:36:12,Product,Desktop,Safari,India,149,add_to_cart,Organic,1,,1.0,,1,True
+s917,u458,2025-04-25 10:02:42,Payment,Tablet,Safari,UK,286,add_to_cart,Organic,1,,1.0,,1,True
+s919,u316,2025-04-25 10:00:43,Home,Desktop,Firefox,USA,273,click,Social Media,0,1.0,,,0,True
+s921,u86,2025-04-25 10:04:36,Cart,Tablet,Firefox,UK,214,checkout,Email,0,,,3.0,0,True
+s922,u382,2025-04-25 10:45:41,Cart,Mobile,Firefox,UK,148,click,Social Media,0,2.0,,,0,True
+s923,u466,2025-04-25 11:00:26,Cart,Tablet,Firefox,UK,205,checkout,Organic,0,,,1.0,0,True
+s924,u85,2025-04-25 10:34:30,Product,Tablet,Chrome,Germany,66,click,Social Media,1,1.0,,,1,True
+s925,u346,2025-04-25 11:03:48,Home,Desktop,Safari,USA,219,add_to_cart,Social Media,1,,1.0,,1,True
+s926,u258,2025-04-25 10:30:14,Home,Tablet,Safari,UK,177,checkout,Organic,0,,,2.0,0,True
+s927,u254,2025-04-25 10:32:50,Home,Tablet,Chrome,Germany,115,click,Email,0,1.0,,,0,True
+s928,u88,2025-04-25 11:22:06,Cart,Tablet,Firefox,USA,207,click,Email,0,1.0,,,0,True
+s929,u174,2025-04-25 10:32:14,Product,Mobile,Firefox,UK,230,checkout,Paid,0,,,1.0,0,True
+s930,u303,2025-04-25 11:37:17,Product,Mobile,Chrome,UK,142,checkout,Paid,0,,,2.0,0,True
+s931,u449,2025-04-25 11:47:45,Home,Mobile,Chrome,India,223,click,Paid,0,1.0,,,0,True
+s932,u30,2025-04-25 10:50:19,Home,Desktop,Firefox,Germany,160,click,Organic,1,1.0,,,0,False
+s933,u478,2025-04-25 10:43:56,Product,Tablet,Chrome,Germany,119,add_to_cart,Organic,0,,1.0,,0,True
+s935,u313,2025-04-25 10:23:18,Home,Desktop,Chrome,Germany,212,checkout,Paid,0,,,1.0,0,True
+s936,u289,2025-04-25 10:07:52,Payment,Tablet,Firefox,India,161,add_to_cart,Organic,1,,1.0,,1,True
+s937,u487,2025-04-25 10:25:21,Product,Tablet,Firefox,India,242,click,Social Media,0,1.0,,,0,True
+s938,u59,2025-04-25 10:35:49,Payment,Tablet,Safari,UK,212,add_to_cart,Social Media,1,,1.0,,1,True
+s94,u339,2025-04-25 10:31:06,Cart,Desktop,Chrome,India,157,add_to_cart,Social Media,0,,1.0,,0,True
+s941,u290,2025-04-25 10:33:12,Product,Mobile,Safari,India,227,checkout,Organic,0,,,1.0,0,True
+s943,u317,2025-04-25 10:59:47,Payment,Tablet,Firefox,India,103,click,Social Media,0,1.0,,,0,True
+s944,u186,2025-04-25 10:45:28,Product,Tablet,Safari,UK,125,checkout,Organic,0,,,2.0,0,True
+s945,u363,2025-04-25 11:05:56,Home,Desktop,Firefox,India,156,click,Organic,0,1.0,,,0,True
+s946,u394,2025-04-25 10:38:28,Payment,Tablet,Safari,Germany,101,click,Paid,0,1.0,,,0,True
+s948,u76,2025-04-25 10:32:49,Product,Tablet,Safari,UK,276,add_to_cart,Social Media,0,,1.0,,1,False
+s95,u33,2025-04-25 10:35:43,Cart,Desktop,Safari,USA,231,add_to_cart,Organic,1,,2.0,,1,True
+s950,u436,2025-04-25 10:16:04,Payment,Desktop,Safari,India,180,click,Organic,0,1.0,,,0,True
+s951,u387,2025-04-25 11:16:58,Payment,Tablet,Safari,UK,281,checkout,Email,0,,,1.0,0,True
+s952,u333,2025-04-25 11:50:09,Cart,Mobile,Safari,UK,295,add_to_cart,Social Media,1,,2.0,,1,True
+s955,u161,2025-04-25 10:55:30,Home,Tablet,Firefox,USA,175,add_to_cart,Social Media,1,,2.0,,1,True
+s956,u320,2025-04-25 10:29:06,Product,Mobile,Safari,UK,266,checkout,Social Media,0,,,1.0,0,True
+s957,u382,2025-04-25 11:50:27,Payment,Mobile,Safari,Germany,296,click,Email,0,1.0,,,0,True
+s959,u452,2025-04-25 11:38:43,Payment,Mobile,Chrome,USA,151,checkout,Paid,0,,,1.0,0,True
+s960,u469,2025-04-25 10:22:36,Payment,Desktop,Chrome,Germany,267,add_to_cart,Email,0,,1.0,,0,True
+s962,u246,2025-04-25 11:00:08,Cart,Desktop,Chrome,UK,300,add_to_cart,Organic,1,,1.0,,1,True
+s963,u364,2025-04-25 11:12:37,Cart,Mobile,Safari,UK,264,checkout,Organic,0,,,1.0,0,True
+s964,u56,2025-04-25 11:14:06,Payment,Mobile,Safari,Germany,73,click,Paid,0,1.0,,,0,True
+s967,u69,2025-04-25 11:42:22,Home,Mobile,Safari,Germany,271,click,Paid,0,1.0,,,0,True
+s971,u362,2025-04-25 11:46:52,Home,Tablet,Safari,USA,108,checkout,Paid,0,,,1.0,0,True
+s972,u425,2025-04-25 11:59:54,Payment,Mobile,Safari,USA,296,add_to_cart,Paid,1,,1.0,,1,True
+s973,u418,2025-04-25 10:02:16,Cart,Mobile,Safari,India,166,checkout,Email,0,,,2.0,0,True
+s974,u366,2025-04-25 11:00:03,Cart,Desktop,Safari,USA,97,checkout,Email,0,,,1.0,0,True
+s975,u288,2025-04-25 11:56:38,Product,Tablet,Chrome,Germany,127,add_to_cart,Social Media,1,,1.0,,1,True
+s976,u110,2025-04-25 11:00:54,Home,Mobile,Safari,Germany,210,checkout,Social Media,0,,,1.0,0,True
+s977,u4,2025-04-25 10:48:01,Cart,Mobile,Firefox,USA,184,click,Email,0,1.0,,,0,True
+s978,u161,2025-04-25 11:29:06,Payment,Mobile,Chrome,India,265,add_to_cart,Social Media,1,,1.0,,1,True
+s979,u249,2025-04-25 11:31:51,Home,Desktop,Chrome,UK,252,click,Organic,0,2.0,,,0,True
+s981,u337,2025-04-25 10:16:42,Home,Desktop,Firefox,USA,186,checkout,Email,0,,,1.0,0,True
+s982,u471,2025-04-25 10:20:54,Payment,Tablet,Firefox,USA,96,add_to_cart,Paid,1,,1.0,,1,True
+s983,u179,2025-04-25 10:42:32,Cart,Desktop,Firefox,UK,104,checkout,Email,0,,,1.0,0,True
+s987,u33,2025-04-25 10:45:54,Cart,Tablet,Firefox,UK,126,checkout,Email,0,,,1.0,0,True
+s988,u249,2025-04-25 10:34:00,Home,Mobile,Safari,USA,257,add_to_cart,Organic,0,,1.0,,0,True
+s989,u215,2025-04-25 11:11:30,Home,Desktop,Safari,UK,238,click,Email,0,1.0,,,1,False
+s99,u485,2025-04-25 10:41:32,Home,Mobile,Firefox,Germany,129,checkout,Paid,0,,,1.0,0,True
+s991,u440,2025-04-25 10:46:57,Product,Tablet,Safari,Germany,175,click,Social Media,0,1.0,,,0,True
+s992,u368,2025-04-25 10:36:57,Payment,Tablet,Firefox,USA,125,checkout,Organic,0,,,1.0,0,True
+s993,u262,2025-04-25 10:38:04,Product,Mobile,Chrome,India,124,add_to_cart,Social Media,1,,1.0,,1,True
+s995,u373,2025-04-25 10:29:53,Cart,Tablet,Chrome,UK,174,add_to_cart,Paid,1,,1.0,,1,True
+s996,u263,2025-04-25 11:20:41,Payment,Desktop,Safari,India,195,click,Social Media,0,1.0,,,0,True
+s997,u44,2025-04-25 11:26:23,Payment,Tablet,Chrome,USA,69,click,Organic,0,1.0,,,0,True
+s998,u102,2025-04-25 11:42:26,Home,Desktop,Firefox,USA,175,checkout,Paid,0,,,1.0,0,True
+s999,u16,2025-04-25 10:08:55,Payment,Desktop,Firefox,Germany,178,click,Email,1,1.0,,,1,True
